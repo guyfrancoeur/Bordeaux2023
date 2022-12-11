@@ -2,20 +2,20 @@
 
 Site pour la gestion du voyage/Matchs à Bordeaux 2023
 
-Nom | Confirmation | Parents
-:--- | :--- | :---
-Aghilas | Oui | 
-Yacoub | Oui |
-Emile | Oui |
-Ewan | Oui | Oui
-Yohan | Oui (details requis) |
-Vinh | Oui | Oui
-Sami | Oui |
-Joachim | Oui | Oui
-William | Oui |
-Theo |     |
- |   | 
-Kevin | Coach |
+Nom | Confirmation | Parents | Questions?
+:--- | :--- | :--- | :---
+Aghilas | Oui |  |
+Yacoub | Oui |   |
+Emile | Oui |    |
+Ewan | Oui | Oui |
+Yohan | Oui |    | *
+Vinh | Oui | Oui |
+Sami | Oui |     |
+Joachim | Oui | Oui |
+William | Oui |   |
+Theo |     |   |
+ *** | *** | ***  | **
+Kevin | Coach |   |
 
 
 ### Levée de fonds
