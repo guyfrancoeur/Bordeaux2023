@@ -1,5 +1,6 @@
-# Bordeaux2023
-Site pour la gestion du voyage a Bordeaux 2023
+# Bordeaux 2023
+
+Site pour la gestion du voyage/Matchs à Bordeaux 2023
 
 Nom | Confirmation | %
 :--- | :--- | :---
