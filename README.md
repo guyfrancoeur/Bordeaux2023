@@ -37,7 +37,7 @@ Dimanche 11 Décembre 2022
   + Yacoub
   + William
   
-### Details et étapes 
+### Requis
 
   Date de départ le 3 avril 2023 21h00 heure de Montréal arrivé le 4 avril 2023 vers 10h30 heure de Paris
  
@@ -64,10 +64,12 @@ Dimanche 11 Décembre 2022
     1.	Un gabarit sera fourni par Luigi
 
 
-### Prochaines étapes
+### Prochaines étapes (à venir)
  1. Format du séjour
     1. Matchs amicaux contre les académies
     2. Matchs amicaux et tournoi le week-end.
-
-
+ 2. Forfait pour les parents
+    1. airb&b
+    2. hotel
+    3. activités (vignobles, stades, académies)
  ---
