@@ -2,17 +2,17 @@
 
 Site pour la gestion du voyage/Matchs à Bordeaux 2023
 
-Nom | Confirmation | %
+Nom | Confirmation | Parents
 :--- | :--- | :---
 Aghilas | Oui | 
 Yacoub | Oui |
 Emile | Oui |
-Ewan | Oui |
+Ewan | Oui | Oui
 Yohan | Questions |
-Vinh | Oui |
+Vinh | Oui | Oui
 Sami | Oui |
+Joachim | Oui | Oui
 Theo | Non |
-
 
 
 
