@@ -37,7 +37,7 @@ Dimanche 11 Décembre 2022
   + Yacoub
   + William
   
-  
+### Details et étapes 
 
   Date de départ le 3 avril 2023 21h00 heure de Montréal arrivé le 4 avril 2023 vers 10h30 heure de Paris
  
@@ -63,4 +63,11 @@ Dimanche 11 Décembre 2022
 6.	Le droit de voyage pour jeune de 16 et moins
     1.	Un gabarit sera fourni par Luigi
 
----
+
+### Prochaines étapes
+ 1. Format du séjour
+    1. Matchs amicaux contre les académies
+    2. Matchs amicaux et tournoi le week-end.
+
+
+ ---
