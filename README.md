@@ -14,7 +14,7 @@ Sami | Oui |
 Joachim | Oui | Oui
 William | Oui |
 Theo |     |
-- | - | -
+ |   | 
 Kevin | Coach |
 
 
