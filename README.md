@@ -1,15 +1,18 @@
 # Bordeaux2023
 Site pour la gestion du voyage a Bordeaux 2023
 
-Nom | 
---- | --- | ---
-Aghilas | |
-Yacoub | |
-Emile | |
-Ewan | |
-Yohan | |
-Vinh | |
-Sami | |
+Nom | Confirmation | %
+:--- | :--- | :---
+Aghilas | Oui | 
+Yacoub | Oui |
+Emile | Oui |
+Ewan | Oui |
+Yohan | Questions |
+Vinh | Oui |
+Sami | Oui |
+Theo | Non |
+
+
 
 
 ### Levée de fonds
