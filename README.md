@@ -4,6 +4,8 @@
 
 Si vous avez des questions n'hésitez pas a communiquer avec nous nous allons les noter et rendre les reponses disponible a tous.  Via l'onglet Issues. [Q&A](https://github.com/guyfrancoeur/Bordeaux2023/issues)
 
+Outre le sport il y a d'autres facteurs qui sont important dans ce projet telque les études, donc ne vous sentez pas mal.  J'y pense toujours.. Si vous avez des inquiétudes nous seront la pour vous et votre enfants.
+
 ### Prochain livrable (milestone)
 
  - `Paiement 19 decembre 2022`
@@ -74,7 +76,7 @@ Dimanche 11 Décembre 2022
     1.	Pour les gens dans ARSRS ce sera fait pour vous (rien à faire apriori);
     2.	Les autres vous devez obtenir une lettre de votre Directeur Technique régional.
 6.	Le droit de voyage pour jeune de 16 et moins
-    1.	Un gabarit sera fourni par Luigi
+    1.	Un gabarit sera fourni par Luigi (merci Luigi)
 
 
 ### Prochaines étapes (à venir)
