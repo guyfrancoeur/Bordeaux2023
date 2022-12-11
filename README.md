@@ -12,6 +12,7 @@ Yohan | Questions |
 Vinh | Oui | Oui
 Sami | Oui |
 Joachim | Oui | Oui
+William | Oui |
 Theo | Non |
 
 
@@ -25,6 +26,7 @@ Dimanche 11 Decembre 2022
   + Emile
   + Sami
   + Yohan
+  + Joachim
 
 
 - 13h
@@ -32,6 +34,7 @@ Dimanche 11 Decembre 2022
   + Aghilas
   + Vinh
   + Yacoub
+  + William
   
   
   Date de départ le 3 avril 2023 21h00 Montréal arrive le 4 avril 2023 vers 10h30 heure de Paris
