@@ -25,7 +25,10 @@ Joachim | Oui | Oui |
 William | Oui |   |
 Caleb | Oui |
 Luca | Oui |
-Theo |     |   | 
+Ilyan | Oui* |  |
+Elliot | Oui* |  |
+Theo |     |   |
+
  *** | *** | ***  | **
 Kevin | Coach |   |
 
