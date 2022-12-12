@@ -74,18 +74,21 @@ Les fonds vont a ceux qui participent.
     1.	Il est nécessaire d’avoir une date de voyage pour accélérer la demande;
     2.	Si la demande est faites 20 jours avant le départ c’est assez rapide.
 5.	Demande pour le droit de jouer au soccer (à l’extérieur du Québec)
-    1.	Pour les gens dans ARSRS ce sera fait pour vous (rien à faire apriori);
+    1.	Pour les gens dans ARSRS ce sera fait pour vous (fait par club CSL, à confirmer);
     2.	Les autres vous devez obtenir une lettre de votre Directeur Technique régional.
 6.	Le droit de voyage pour jeune de 16 et moins
     1.	Un gabarit sera fourni par Luigi (merci Luigi)
 
 
 ### Prochaines étapes (à venir)
- 1. Format de la comp/tition durant le séjour
+ 1. Format de la compétition durant le séjour
     1. Matchs amicaux contre les académies;
     2. Matchs amicaux et tournoi le week-end.
  2. Forfait pour les parents
-    1. airb&b;
+    1. airb&b en solo ou a plusieurs;
     2. hotel;
-    3. activités (vignobles, stades, académies).
+    3. activités (vignobles, stades, visite (Andora ?, académies ?).
+    4. des dates de retour personnalisées seront tentées avec notre arrangeur de voyage.
+       1. Négociation de groupe pour obtenir un prix.
+       2. Les parents qui voudraient y aller vous devez me prévenir.
  ---
