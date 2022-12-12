@@ -17,7 +17,7 @@ Joueur | Confirmation parentale | Parents présent | Questions?
 Emile | Oui |    |
 Aghilas | Oui |  |
 Yacoub | Oui |   |
-Ewan | Oui | Oui |
+Ewen | Oui | Oui |
 Yohan | Oui |    | *
 Vinh | Oui | Oui |
 Sami | Oui |     |
