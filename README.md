@@ -49,8 +49,6 @@ Les fonds vont a ceux qui participent.
     + William
     + Joachim
 
-Leçons apprises : plus de fous plus de cash.
-
 ### Requis
 
   Date de départ le 3 avril 2023 21h00 heure de Montréal arrivé le 4 avril 2023 vers 10h30 heure de Paris
