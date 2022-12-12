@@ -34,24 +34,23 @@ Kevin | Coach |   |
 
 Les fonds vont a ceux qui participent.
 
-Dimanche 11 Décembre 2022
+- Dimanche 11 Décembre 2022 : 1122$
+  - 10h @ 12h : 454$
+    + Vinh
+    + Emile
+    + Sami
+    + Yohan
+    + Joachim
+  - 13h @ 15h : 668$
+    + Ilyan
+    + Aghilas
+    + Vinh
+    + Yacoub
+    + William
+    + Joachim
 
-- 10h @ 12h
-  + Vinh
-  + Emile
-  + Sami
-  + Yohan
-  + Joachim
+Leçons apprises : plus de fous plus de cash.
 
-
-- 13h @ 15h
-  + Ilyan
-  + Aghilas
-  + Vinh
-  + Yacoub
-  + William
-  
-  
 ### Requis
 
   Date de départ le 3 avril 2023 21h00 heure de Montréal arrivé le 4 avril 2023 vers 10h30 heure de Paris
