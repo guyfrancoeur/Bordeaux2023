@@ -23,8 +23,9 @@ Vinh | Oui | Oui |
 Sami | Oui |     |
 Joachim | Oui | Oui |
 William | Oui |   |
-Caleb | Oui |
-Luca | Oui |
+Caleb | Oui | |
+Luca | Oui |  |
+Cheick | Oui |   |
 Ilyan | Oui* |  |
 Elliot | Oui* |  |
 Theo |     |   |
