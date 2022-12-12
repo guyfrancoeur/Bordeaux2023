@@ -12,7 +12,7 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 
 **Liste des retours sur le projet qui confirme la participation**
 
-Joueur | Confirmation parentale | Parents présent | Questions?
+Joueur | Confirmation parentale ? | Parents du voyage ? | Questions?
 :--- | :--- | :--- | :---
 Emile | Oui |    |
 Aghilas | Oui |  |
