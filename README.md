@@ -20,15 +20,16 @@ Yacoub | Oui |   |
 Ewen | Oui | Oui |
 Yohan | Oui |    | <sup>1</sup>
 Vinh | Oui | Oui |
-Sami | Oui |     |
+Sami | Oui | Oui |
 Joachim | Oui | Oui |
 William | Oui |   |
 Caleb | Oui | |
 Luca | Oui |  |
 Cheick | Oui |   |
 Liam | Oui |  |
-Ilyan | Oui<sup>2</sup> |  | 
-Elliot | Oui<sup>2</sup> |  | 
+Ilyan | Oui<sup>2</sup> |  |
+Elliot | Oui<sup>2</sup> |  |
+Kris | Oui |  | <sup>1</sup>
 Theo |     |   |
   -- |  |   | 
 Kevin | Coach |   |
@@ -55,6 +56,25 @@ Les fonds vont a ceux qui participent.
     + William
     + Joachim
     + Ewen
+
+ - Samedi 17 décembre 2022 (Dix30 coin/SAQ):
+   - 13h a 16h  
+     - Sami
+     - Vinh
+     - Yohan*
+     - William (avec Pots additionels)
+
+ - 29 décembre 2022 (Adonis Montréal) nous devons avoir du monde pendant 5h
+   - 11h00 @ 13h30 (2.5h)
+     - Kris
+   - 13h30 @ 16h00 (2.5h)
+     - Kris
+
+ - 30 décembre 2022 (Adonis Montréal) nous devons avoir du monde pendant 5h
+   - 11h00 @ 13h30 (2.5h)
+     - Kris
+   - 13h30 @ 16h00 (2.5h)
+     - Kris
 
 ### Requis
 
@@ -84,16 +104,21 @@ Les fonds vont a ceux qui participent.
 
 
 ### Prochaines étapes (à venir)
- 1. Format de la compétition durant le séjour
+ 1. Choix du format de la compétition durant le séjour
     1. Matchs amicaux contre les académies;
     2. Matchs amicaux et tournoi le week-end.
- 2. Forfait pour les parents
+ 2. Choix du forfait pour les parents
     1. airb&b en solo ou a plusieurs;
     2. hotel;
     3. activités (vignobles, stades, visite (Andora ?, académies ?).
     4. des dates de retour personnalisées seront tentées avec notre arrangeur de voyage.
        1. Négociation de groupe pour obtenir un prix.
        2. Les parents qui voudraient y aller vous devez me prévenir.
+  3. Adonis Montreal
+     1. Responsable Patricia Claros : 514.264.3027
+     2. Confirmer la presence a moi jusqu'au 17 decembre 2022 après avec Paricia.
+  5. Adonis Brossard (date à confirmer)
+     1. Papa Sami Talbi : 
 
 ### Questions
 
@@ -106,5 +131,6 @@ Voici mon planning avec OceanCup pour les prochains jours
   - Q. Comment ce fait les transports durant le séjour ?
   - Q. Formule des matchs amicaux ?
   - Q. Formule du tournoi *exemple l’horaire de l’an passé* ?
-
+  - Q. Y a t'il des reponsables qui s'occupe de la sécurité des enfants ?
+  - Q. Quels sont les services offerts (bobo de matchs, bobo en dehors, clinique ) ?
 ---
