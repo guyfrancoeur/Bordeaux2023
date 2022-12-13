@@ -66,6 +66,7 @@ Les fonds vont a ceux qui participent.
 
  - Jeudi 29 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
+   - minimum de `x` personne pour que ca ait lieu
    - 11h00 @ 13h30 (2.5h)
      - Kris
      - Yohan
@@ -77,10 +78,13 @@ Les fonds vont a ceux qui participent.
 
  - Vendredi 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
+   - minimum de `x` personne pour que ca ait lieu
    - 11h00 @ 13h30 (2.5h)
      - Kris
+     - Cheick
    - 13h30 @ 16h00 (2.5h)
      - Kris
+     - Cheick
 
 ### Requis
 
