@@ -58,7 +58,7 @@ Les fonds vont a ceux qui participent.
 
 ### Requis
 
-  Date de départ le 3 avril 2023 21h00 heure de Montréal arrivé le 4 avril 2023 vers 10h30 heure de Paris
+  Date de départ le 3 avril 2023 Soir ~21h00 heure de Montréal arrivé le 4 avril 2023 vers 10h30 heure de Paris
  
 1.	Il y a trois paiements pour l’aspect hébergement (509$EU -- > ~740$CDN)
     1.	19 décembre 2022 (250$CDN)
@@ -94,4 +94,17 @@ Les fonds vont a ceux qui participent.
     4. des dates de retour personnalisées seront tentées avec notre arrangeur de voyage.
        1. Négociation de groupe pour obtenir un prix.
        2. Les parents qui voudraient y aller vous devez me prévenir.
- ---
+
+### Questions
+
+Voici mon planning avec OceanCup pour les prochains jours
+
+- Jeudi 15 décembre 10h45 nous allons parler de ces questions:
+  - Q. Comment payer ? Montant à payer et dates, arrangement ? (le formel)
+    - R. Ils ont un logiciel pour la gestion de ces aspects. à suivre.
+  - Q. Lieu des matchs sont à combien de minutes du lieu camping/cabine ?
+  - Q. Comment ce fait les transports durant le séjour ?
+  - Q. Formule des matchs amicaux ?
+  - Q. Formule du tournoi *exemple l’horaire de l’an passé* ?
+
+---
