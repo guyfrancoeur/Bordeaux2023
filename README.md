@@ -64,15 +64,15 @@ Les fonds vont a ceux qui participent.
      - Yohan*
      - William (avec Pots additionels)
 
- - 29 décembre 2022 (Adonis Montréal) nous devons avoir du monde pendant 5h
- - 2001 Rue Sauvé Ouest, Montréal
+ - 29 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
+   - nous devons avoir du monde pendant 5h
    - 11h00 @ 13h30 (2.5h)
      - Kris
    - 13h30 @ 16h00 (2.5h)
      - Kris
 
- - 30 décembre 2022 (Adonis Montréal) nous devons avoir du monde pendant 5h
- - 2001 Rue Sauvé Ouest, Montréal
+ - 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
+   - nous devons avoir du monde pendant 5h
    - 11h00 @ 13h30 (2.5h)
      - Kris
    - 13h30 @ 16h00 (2.5h)
