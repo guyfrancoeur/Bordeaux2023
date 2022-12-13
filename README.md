@@ -18,7 +18,7 @@ Emile | Oui |    |
 Aghilas | Oui |  |
 Yacoub | Oui |   |
 Ewen | Oui | Oui |
-Yohan | Oui |    | *
+Yohan | Oui |    | <sup>1</sup>
 Vinh | Oui | Oui |
 Sami | Oui |     |
 Joachim | Oui | Oui |
@@ -26,13 +26,15 @@ William | Oui |   |
 Caleb | Oui | |
 Luca | Oui |  |
 Cheick | Oui |   |
-Ilyan | Oui* |  |
-Elliot | Oui* |  |
+Liam | Oui |  |
+Ilyan | Oui<sup>2</sup> |  | 
+Elliot | Oui<sup>2</sup> |  | 
 Theo |     |   |
-
- *** | *** | ***  | **
+  -- |  |   | 
 Kevin | Coach |   |
 
+- <sup>1</sup> En attente d'un retour d'OceanCup;
+- <sup>2</sup> Verbale.
 
 ### Levée de fonds (facultatif)
 
