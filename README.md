@@ -64,14 +64,18 @@ Les fonds vont a ceux qui participent.
      - Yohan*
      - William (avec Pots additionels)
 
- - 29 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
+ - Jeudi 29 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
    - 11h00 @ 13h30 (2.5h)
      - Kris
+     - Yohan
+     - Emile
    - 13h30 @ 16h00 (2.5h)
      - Kris
+     - Yohan
+     - Emile
 
- - 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
+ - Vendredi 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
    - 11h00 @ 13h30 (2.5h)
      - Kris
