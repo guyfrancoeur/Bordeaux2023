@@ -124,7 +124,7 @@ Les fonds vont a ceux qui participent.
 
 ### Questions
 
-Voici mon planning avec OceanCup pour les prochains jours
+Voici mon planning avec **`OceanCup`** pour les prochains jours
 
 - Jeudi 15 décembre 10h45 nous allons parler de ces questions:
   - Q. Comment payer ? Montant à payer et dates, arrangement ? (le formel)
@@ -133,6 +133,7 @@ Voici mon planning avec OceanCup pour les prochains jours
   - Q. Comment ce fait les transports durant le séjour ?
   - Q. Formule des matchs amicaux ?
   - Q. Formule du tournoi *exemple l’horaire de l’an passé* ?
-  - Q. Y a t'il des reponsables qui s'occupe de la sécurité des enfants ?
+  - Q. Y a t'il des reponsables qui s'occupent de la sécurité des enfants ?
   - Q. Quels sont les services offerts (bobo de matchs, bobo en dehors, clinique ) ?
+
 ---
