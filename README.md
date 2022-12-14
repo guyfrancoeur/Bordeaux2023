@@ -32,13 +32,15 @@ Ilyan | Oui |  |
 Elliot | Oui<sup>2</sup> |  |
 Kristopher | Oui |  | <sup>1</sup>
 Otoniel | Oui |  |
-Théo | Oui |   |
+Théo | Oui | Oui<sup>4</sup> |
+Isaak | | | <sup>3</sup>
    |  |   | 
 Kevin | Coach |   |
 
 - <sup>1</sup> En attente d'un retour d'OceanCup;
 - <sup>2</sup> Verbale.
 - <sup>3</sup> Besoin de quelques jours.
+- <sup>4</sup> Possible
 
 ### Levée de fonds (facultatif)
 
