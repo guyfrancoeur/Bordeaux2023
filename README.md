@@ -9,6 +9,7 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 ### Prochain livrable (milestone)
 
  - `Paiement 19 decembre 2022`
+ - `lettre de consentement de voyage` [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
 
 **Liste des retours sur le projet qui confirme la participation**
 
