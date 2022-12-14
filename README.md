@@ -80,10 +80,12 @@ Les fonds vont a ceux qui participent.
      - Kris
      - Yohan
      - Emile
+     - Aghilas
    - 13h30 @ 16h00 (2.5h)
      - Kris
      - Yohan
      - Emile
+     - Aghilas
 
  - Vendredi 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
