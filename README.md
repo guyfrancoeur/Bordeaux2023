@@ -126,7 +126,7 @@ Les fonds vont a ceux qui participent.
     1.	Pour les gens dans ARSRS ce sera fait pour vous (fait par club CSL, à confirmer);
     2.	Les autres vous devez obtenir une lettre de votre Directeur Technique régional.
 6.	Le droit de voyage pour jeune de 16 et moins
-    1.	Un gabarit sera fourni par Luigi (merci Luigi)
+    1.	Un gabarit sera fourni par Luigi (merci Luigi) [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
 
 
 ### Prochaines étapes (à venir)
@@ -139,7 +139,7 @@ Les fonds vont a ceux qui participent.
     3. activités (vignobles, stades, visite (Andora ?, académies ?).
     4. des dates de retour personnalisées seront tentées avec notre arrangeur de voyage.
        1. Négociation de groupe pour obtenir un prix.
-       2. Les parents qui voudraient y aller vous devez me prévenir.
+       2. Les parents qui voudraient aller en France, vous devez me prévenir.
   3. Adonis Montreal
      1. Responsable Patricia Claros : 514.264.3027
      2. Confirmer la presence a moi jusqu'au 17 decembre 2022 après avec Paricia.
