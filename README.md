@@ -151,13 +151,14 @@ Les fonds vont a ceux qui participent.
 Voici mon planning avec **`OceanCup`** pour les prochains jours
 
 - Jeudi 15 décembre 10h45 nous allons parler de ces questions:
-  - Q. Comment payer ? Montant à payer et dates, arrangement ? (le formel)
-    - R. Ils ont un logiciel pour la gestion de ces aspects. à suivre.
+  - Q. Comment payer ? Le montant à payer et dates des paiements ?
+    - R. Ils ont un logiciel pour la gestion du projet. à suivre.
   - Q. Lieu des matchs sont à combien de minutes du lieu camping/cabine ?
   - Q. Comment ce fait les transports durant le séjour ?
   - Q. Formule des matchs amicaux ?
   - Q. Formule du tournoi *exemple l’horaire de l’an passé* ?
   - Q. Y a t'il des reponsables qui s'occupent de la sécurité des enfants ?
   - Q. Quels sont les services offerts (bobo de matchs, bobo en dehors, clinique ) ?
+  - Q. Addresse du camping pour notre groupe ?
 
 ---
