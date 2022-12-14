@@ -24,18 +24,21 @@ Sami | Oui | Oui |
 Joachim | Oui | Oui |
 William | Oui |   |
 Caleb | Oui | |
-Luca | Oui |  |
+Luca | Oui<sup>3</sup> |  |
 Cheick | Oui |   |
 Liam | Oui |  |
-Ilyan | Oui<sup>2</sup> |  |
+Ilyan | Oui |  |
 Elliot | Oui<sup>2</sup> |  |
-Kris | Oui |  | <sup>1</sup>
-Theo |     |   |
-  -- |  |   | 
+Kristopher | Oui |  | <sup>1</sup>
+Otoniel | Oui |  |
+Théo | Oui |   |
+
+   |  |   | 
 Kevin | Coach |   |
 
 - <sup>1</sup> En attente d'un retour d'OceanCup;
 - <sup>2</sup> Verbale.
+- <sup>3</sup> Besoin de quelques jours.
 
 ### Levée de fonds (facultatif)
 
@@ -65,6 +68,11 @@ Les fonds vont a ceux qui participent.
      - William (avec Pots additionels)
      - Kristopher
      - Ewen
+     - Yacoub
+     - Ilyan
+     - Aghilas
+     - Otoniel
+     - Théo
 
  - Jeudi 29 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
