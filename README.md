@@ -32,7 +32,6 @@ Elliot | Oui<sup>2</sup> |  |
 Kristopher | Oui |  | <sup>1</sup>
 Otoniel | Oui |  |
 Théo | Oui |   |
-
    |  |   | 
 Kevin | Coach |   |
 
