@@ -25,7 +25,7 @@ Sami | Oui | Oui |
 Joachim | Oui | Oui |
 William | Oui |   |
 Caleb | Oui | |
-Luca | Oui<sup>3</sup> |  |
+Luca | <sup>3</sup> |  |
 Cheick | Oui |   |
 Liam | Oui |  |
 Ilyan | Oui |  |
