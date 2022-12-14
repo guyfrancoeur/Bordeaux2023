@@ -126,7 +126,7 @@ Les fonds vont a ceux qui participent.
     1.	Pour les gens dans ARSRS ce sera fait pour vous (fait par club CSL, à confirmer);
     2.	Les autres vous devez obtenir une lettre de votre Directeur Technique régional.
 6.	Le droit de voyage pour jeune de 16 et moins
-    1.	Un gabarit sera fourni par Luigi (merci Luigi) [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
+    1.	Un gabarit sera fourni par Luigi (merci Luigi) [disponible ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
 
 
 ### Prochaines étapes (à venir)
