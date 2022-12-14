@@ -61,7 +61,7 @@ Les fonds vont a ceux qui participent.
     + Ewen
 
  - Samedi 17 décembre 2022 (Dix30 coin/SAQ):
-   - 13h a 16h  
+   - 13h a 16h (complet)
      - Sami
      - Vinh
      - Yohan*
@@ -142,7 +142,7 @@ Les fonds vont a ceux qui participent.
        2. Les parents qui voudraient aller en France, vous devez me prévenir.
   3. Adonis Montreal
      1. Responsable Patricia Claros : 514.264.3027
-     2. Confirmer la presence a moi jusqu'au 17 decembre 2022 après avec Paricia.
+     2. Confirmer la présence via courriel Patricia et Guy.
   5. Adonis Brossard (date à confirmer)
      1. Papa Sami Talbi : 
 
