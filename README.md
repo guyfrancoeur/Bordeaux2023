@@ -187,16 +187,16 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
   - vers 14h00 Bordeaux
   - Une activité ici (car ils ne doivent pas dormir avant 21h) : Visite secrète
 - 5 avril
-  - Amical vs
+  - Match vs
 - 6 avril
-  - Amical vs
+  - Match vs
 - 7 avril
-  - Amical vs
+  - Match vs
 - 8 avril tournoi
-  - 
+  - ..
 - 9 avril tournoi
-  - 
+  - ..
 - 10 avril retour
-  - 
+  - ..
 
 ---
