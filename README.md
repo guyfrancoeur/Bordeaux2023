@@ -8,10 +8,14 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 
 ### Prochain livrable (milestone)
 
- 1. `Paiement de l'insription 29 Décembre 2022` 200EUR ceci officialise l'inscription
- 2. `lettre de consentement de voyage` [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
- 3. `Paiement du devis d'hébergement pour 18+2+2=22 personnes (30%) Janvier 2023`
- 4. ...
+ 1. `29 Décembre 2022` **Paiement de l'insription** (ceci officialise l'inscription)
+    - nous avons recu la facture 200EUR.
+ 2. `13 Janvier 2023` **lettre de consentement de voyage** [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
+ 3. `13 Janvier 2023` **passeport**
+    1. Confirmation des passports (date d'échéance);
+    2. Confirmation des demandes de passeport à venir.
+ 4. `19 Janvier 2023` **Paiement du devis d'hébergement** (ceci officialise la réservation)
+    1. 18+2+2=22 personnes (30%) xx Janvier 2023
 
  - Identification des coachs (2);
  - Identification des parents responsables (2);
