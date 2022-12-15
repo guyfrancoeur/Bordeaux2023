@@ -9,6 +9,8 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 ### Prochain livrable (milestone)
 
  - `Paiement 19 decembre 2022`
+ - `Paiement de l'insription 29 Décembre 2022` 200EUR
+ - `Paiement de devis d'hébergement pour 22 personnes` 12
  - `lettre de consentement de voyage` [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
 
 **Liste des retours sur le projet qui confirme la participation**
@@ -113,13 +115,15 @@ Les fonds vont a ceux qui participent.
 3.	Demande de fond de groupe :
     1.	Nous allons tenter de contacter des agences (ville, député, ministre, entreprises) pour trouver des fonds;
     2.	Un volontaire est nécessaire.
-4.	Pour ceux qui n’ont pas de passeport
+4.	Pour ceux qui ont un passeport
+   1.	le passeport doit être valide 6 mois après la date de retour.
+6.	Pour ceux qui n’ont pas de passeport
     1.	Il est nécessaire d’avoir une date de voyage pour accélérer la demande;
     2.	Si la demande est faites 20 jours avant le départ c’est assez rapide.
-5.	Demande pour le droit de jouer au soccer (à l’extérieur du Québec)
+7.	Demande pour le droit de jouer au soccer (à l’extérieur du Québec)
     1.	Pour les gens dans ARSRS ce sera fait pour vous (fait par club CSL, à confirmer);
     2.	Les autres vous devez obtenir une lettre de votre Directeur Technique régional.
-6.	Le droit de voyage pour jeune de 16 et moins
+8.	Le droit de voyage pour jeune de 16 et moins
     1.	Un gabarit sera fourni par Luigi (merci Luigi) [disponible ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
 
 
@@ -147,12 +151,26 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
 - Jeudi 15 décembre 10h45 nous allons parler de ces questions:
   - Q. Comment payer ? Le montant à payer et dates des paiements ?
     - R. Ils ont un logiciel pour la gestion du projet. à suivre.
-  - Q. Lieu des matchs sont à combien de minutes du lieu camping/cabine ?
+  - Q. Lieu des matchs (surface, durée) et distance du camping ?
+    - a venir
   - Q. Comment ce fait les transports durant le séjour ?
+     R. - Peu importe l'activité une navette sera incluse (aller-retour) 
   - Q. Formule des matchs amicaux ?
+    - Durée au choix.
   - Q. Formule du tournoi *exemple l’horaire de l’an passé* ?
+    -  à venir
   - Q. Y a t'il des reponsables qui s'occupent de la sécurité des enfants ?
+    - Lieu privé, les responsables dorment dans des cabines autours des cabines des jeunes.
   - Q. Quels sont les services offerts (bobo de matchs, bobo en dehors, clinique ) ?
+    - repas 3 par jour (dans la cabine le matin)
+    - activités sur site (parc aquatique) village vacance
+    - Jeune assuré par le forfait durant le jeu
+    - Nous devons avoir une assurance medicale additionnelle
+    - Physio et therapeute fourni
+    - 
   - Q. Addresse du camping pour notre groupe ?
-
+    - à suivre
+  - Extra :
+    - Une agence voyage sera proposé : ... Steve Terramont
+    - 
 ---
