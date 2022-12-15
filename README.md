@@ -8,11 +8,15 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 
 ### Prochain livrable (milestone)
 
- - `Paiement 19 decembre 2022`
- - `Paiement de l'insription 29 Décembre 2022` 200EUR
- - `Paiement de devis d'hébergement pour 22 personnes` 12
- - `lettre de consentement de voyage` [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
+ 1. `Paiement de l'insription 29 Décembre 2022` 200EUR ceci officialise l'inscription
+ 2. `lettre de consentement de voyage` [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
+ 3. `Paiement du devis d'hébergement pour 18+2+2=22 personnes (30%) Janvier 2023`
+ 4. ...
 
+ - Identification des coachs (2);
+ - Identification des parents responsables (2);
+ - Les autres vous êtes des parents accompagnateurs 🥰, des supporteurs.
+ 
 **Liste des retours sur le projet qui confirme la participation**
 
 Joueur | Confirmation parentale ? | Parents du voyage ? | Questions?
@@ -102,12 +106,9 @@ Les fonds vont a ceux qui participent.
 
   Date de départ le 3 avril 2023 Soir ~21h00 heure de Montréal arrivé le 4 avril 2023 vers 10h30 heure de Paris
  
-1.	Il y a trois paiements pour l’aspect hébergement (509$EU -- > ~740$CDN)
-    1.	19 décembre 2022 (250$CDN)
-    2.	19 Janvier 2023 (250$CDN)
-    3.	19 février 2023 (~250$CDN)
-    4.	Le prix sera revu/calculé afin d’en avoir pour notre argent
-    5.	Les montants peuvent varier
+1.	Il y a trois paiements pour l’aspect hébergement (580$EU -- > ~740$CDN)
+    1. Le prix inclus le cout pour deux coachs
+    2.	Le prix sera revu/calculé, devis en cours de production
 2.	Pour les billets d’avion :
     1.	Je vais faire une demande pour un prix de groupe (~900$CDN – les rabais)
     2.	Deux compagnies / agences seront contacter (je vous reviens en janvier)
