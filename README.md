@@ -117,14 +117,14 @@ Les fonds vont a ceux qui participent.
     1.	Nous allons tenter de contacter des agences (ville, député, ministre, entreprises) pour trouver des fonds;
     2.	Un volontaire est nécessaire.
 4.	Pour ceux qui ont un passeport
-   1.	le passeport doit être valide 6 mois après la date de retour.
-6.	Pour ceux qui n’ont pas de passeport
+    1.	le passeport doit être valide 6 mois après la date de retour.
+5.	Pour ceux qui n’ont pas de passeport
     1.	Il est nécessaire d’avoir une date de voyage pour accélérer la demande;
     2.	Si la demande est faites 20 jours avant le départ c’est assez rapide.
-7.	Demande pour le droit de jouer au soccer (à l’extérieur du Québec)
+6.	Demande pour le droit de jouer au soccer (à l’extérieur du Québec)
     1.	Pour les gens dans ARSRS ce sera fait pour vous (fait par club CSL, à confirmer);
     2.	Les autres vous devez obtenir une lettre de votre Directeur Technique régional.
-8.	Le droit de voyage pour jeune de 16 et moins
+7.	Le droit de voyage pour jeune de 16 et moins
     1.	Un gabarit sera fourni par Luigi (merci Luigi) [disponible ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
 
 
@@ -177,5 +177,26 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
     - à suivre
   - Extra :
     - Une agence voyage sera proposé : ... Steve Terramont
-    - 
+
+
+## Horraire du séjour
+- 3 avril départ
+  - vers 21h00 Dorval
+- 4 avril arrivé
+  - vers 10h30 Paris
+  - vers 14h00 Bordeaux
+  - Une activité ici (car ils ne doivent pas dormir avant 21h) : Visite secrète
+- 5 avril
+  - Amical vs
+- 6 avril
+  - Amical vs
+- 7 avril
+  - Amical vs
+- 8 avril tournoi
+  - 
+- 9 avril tournoi
+  - 
+- 10 avril retour
+  - 
+
 ---
