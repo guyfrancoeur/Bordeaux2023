@@ -19,7 +19,7 @@ Emile | Oui |    |
 Aghilas | Oui |  |
 Yacoub | Oui |   |
 Ewen | Oui | Oui |
-Yohan | Oui |    | <sup>1</sup>
+Yohan | Oui | Oui<sup>4</sup> | <sup>1</sup>
 Vinh | Oui | Oui |
 Sami | Oui | Oui |
 Joachim | Oui | Oui |
@@ -66,7 +66,7 @@ Les fonds vont a ceux qui participent.
    - 13h a 16h (complet)
      - Sami
      - Vinh
-     - Yohan*
+     - Yohan
      - William (avec Pots additionels)
      - Kristopher
      - Ewen
