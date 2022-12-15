@@ -47,34 +47,36 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 
 **Liste des retours sur le projet qui confirme la participation**
 
-Joueur | Confirmation parentale ? | Parents du voyage ? | Questions?
-:--- | :--- | :--- | :---
-Emile | Oui |    |
-Aghilas | Oui |  |
-Yacoub | Oui |   |
-Ewen | Oui | Oui |
-Yohan | Oui | Oui<sup>4</sup> |
-Vinh | Oui | Oui |
-Sami | Oui | Oui |
-Joachim | Oui | Oui |
-William | Oui |   |
-Caleb | Oui | |
-Luca | <sup>3</sup> |  |
-Cheick | Oui |   |
-Liam | Oui |  |
-Ilyan | Oui |  |
-Elliot | Oui<sup>2</sup> |  |
-Kristopher | Oui |  | <sup>1</sup>
-Otoniel | Oui |  |
-Théo | Oui | Oui |
-Isaak | | | <sup>3</sup>
-   |  |   | 
-Kevin | Coach |   |
+Joueur | Confirmé| Parents | Passport | Lettre | Questions
+:--- | :---: | :---: | :---: | :---: | :---
+Emile | Oui |        | | |
+Aghilas | Oui |  | | |
+Yacoub | Oui |   | | |
+Ewen | Oui | 1 | | |
+Yohan | Oui | 1<sup>4</sup> | | |
+Vinh | Oui | 2 | 4.5ans | |
+Sami | Oui | 1 | | |
+Joachim | Oui | 2 | | |
+William | Oui |   | | |
+Caleb | Oui | | | |
+Luca | <sup>3</sup> |  | |  |
+Cheick | Oui |   | | |
+Liam | Oui |  | | |
+Ilyan | Oui |  | | |
+Elliot | Oui<sup>2</sup> |  |  |  |
+Kristopher | Oui |  |   |  | <sup>1</sup>
+Otoniel | Oui |  | |  |
+Théo | Oui | 1 | |  |
+Isaak | | |  |  |<sup>3</sup>
+   |  |   |  |  | 
+Kevin | Coach |   |  |  |
+      |   17J+1J   |  8P   |  |  |
 
-- <sup>1</sup> En attente d'un retour d'OceanCup;
-- <sup>2</sup> Verbale.
-- <sup>3</sup> Besoin de quelques jours.
-- <sup>4</sup> Possible
+- `Passport` nombre d'année.mois restant après le 10 avail 2023;
+- <sup>1</sup> Question;
+- <sup>2</sup> Verbale;
+- <sup>3</sup> Besoin de quelques joursl
+- <sup>4</sup> Possible.
 
 ### Levée de fonds (facultatif)
 
