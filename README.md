@@ -17,7 +17,7 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
     1. Confirmation des passports (date d'échéance);
     2. Confirmation des demandes de passeport à venir.
  4. `19 Janvier 2023` **Paiement du devis d'hébergement** (ceci officialise la réservation)
-    1. 18+2+2=22 personnes (30%) xx Janvier 2023
+    1. 18+2+2=22 personnes (30%)
 
  - Identification des coachs (2);
  - Identification des parents responsables (2);
