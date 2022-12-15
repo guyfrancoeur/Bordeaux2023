@@ -16,7 +16,29 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
  - Identification des coachs (2);
  - Identification des parents responsables (2);
  - Les autres vous êtes des parents accompagnateurs 🥰, des supporteurs.
- 
+
+## Horraire du séjour
+- 3 avril départ
+  - vers 21h00 Dorval
+- 4 avril arrivé
+  - vers 10h30 Paris
+  - vers 14h00 Bordeaux
+  - Une activité ici (car ils ne doivent pas dormir avant 21h) : Visite secrète
+- 5 avril
+  - Match vs
+- 6 avril
+  - Match vs
+- 7 avril
+  - Match vs
+- 8 avril tournoi
+  - ..
+- 9 avril tournoi
+  - ..
+- 10 avril retour
+  - ..
+
+---
+
 **Liste des retours sur le projet qui confirme la participation**
 
 Joueur | Confirmation parentale ? | Parents du voyage ? | Questions?
@@ -177,26 +199,5 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
     - à suivre
   - Extra :
     - Une agence voyage sera proposé : ... Steve Terramont
-
-
-## Horraire du séjour
-- 3 avril départ
-  - vers 21h00 Dorval
-- 4 avril arrivé
-  - vers 10h30 Paris
-  - vers 14h00 Bordeaux
-  - Une activité ici (car ils ne doivent pas dormir avant 21h) : Visite secrète
-- 5 avril
-  - Match vs
-- 6 avril
-  - Match vs
-- 7 avril
-  - Match vs
-- 8 avril tournoi
-  - ..
-- 9 avril tournoi
-  - ..
-- 10 avril retour
-  - ..
 
 ---
