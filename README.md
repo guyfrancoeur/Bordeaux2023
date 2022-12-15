@@ -69,8 +69,8 @@ Otoniel | Oui |  | |  |
 Théo | Oui | 1 | |  |
 Isaak | | |  |  |<sup>3</sup>
    |  |   |  |  | 
-Kevin | Coach |   |  |  |
-      |   17J+1J   |  8P   |  |  |
+Kevin | Coach      |       |  |  |
+**Total**   |   **17J+1C**   |  **8P**   |  |  |
 
 - `Passport` nombre d'année.mois restant après le 10 avail 2023;
 - <sup>1</sup> Question;
