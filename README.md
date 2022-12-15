@@ -32,7 +32,7 @@ Ilyan | Oui |  |
 Elliot | Oui<sup>2</sup> |  |
 Kristopher | Oui |  | <sup>1</sup>
 Otoniel | Oui |  |
-Théo | Oui | Oui<sup>4</sup> |
+Théo | Oui | Oui |
 Isaak | | | <sup>3</sup>
    |  |   | 
 Kevin | Coach |   |
