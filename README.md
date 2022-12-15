@@ -85,12 +85,14 @@ Les fonds vont a ceux qui participent.
      - Emile
      - Aghilas
      - Yacoub
+     - Otoniel
    - 13h30 @ 16h00 (2.5h)
      - Kris
      - Yohan
      - Emile
      - Aghilas
      - Yacoub
+     - Otoniel
 
  - Vendredi 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
@@ -99,10 +101,12 @@ Les fonds vont a ceux qui participent.
      - Kris
      - Cheick
      - Yacoub
+     - Otoniel
    - 13h30 @ 16h00 (2.5h)
      - Kris
      - Cheick
      - Yacoub
+     - Otoniel
 
 ### Requis
 
