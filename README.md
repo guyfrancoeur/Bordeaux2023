@@ -23,7 +23,7 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 - 4 avril arrivé
   - vers 10h30 Paris
   - vers 14h00 Bordeaux
-  - Une activité ici (car ils ne doivent pas dormir avant 21h) : Visite secrète
+  - vers 15h00 Visite secrète (car ils ne doivent pas dormir avant 21h)
 - 5 avril
   - Match vs
 - 6 avril
@@ -35,7 +35,7 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 - 9 avril tournoi
   - ..
 - 10 avril retour
-  - ..
+  - transport pour plusieurs vers aéroport de Bordeaux
 
 ---
 
