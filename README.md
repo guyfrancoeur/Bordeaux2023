@@ -154,20 +154,24 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
   - Q. Lieu des matchs (surface, durée) et distance du camping ?
     - a venir
   - Q. Comment ce fait les transports durant le séjour ?
-     R. - Peu importe l'activité une navette sera incluse (aller-retour) 
-  - Q. Formule des matchs amicaux ?
+     - R. Peu importe l'activité une navette sera incluse matin et soir. (aller-retour);
+     - R. Mais les departs sont a des heures déterminées.
+  - Q. Formule des matchs amicaux et qui et quand?
     - Durée au choix.
+    - Montignac-Lascaux, Mercredi 5 avril 2023, Lieu : ?
+    - Girondins, Jeudi 6 avril 2023, Lieu : ?
   - Q. Formule du tournoi *exemple l’horaire de l’an passé* ?
     -  à venir
   - Q. Y a t'il des reponsables qui s'occupent de la sécurité des enfants ?
     - Lieu privé, les responsables dorment dans des cabines autours des cabines des jeunes.
   - Q. Quels sont les services offerts (bobo de matchs, bobo en dehors, clinique ) ?
-    - repas 3 par jour (dans la cabine le matin)
-    - activités sur site (parc aquatique) village vacance
-    - Jeune assuré par le forfait durant le jeu
-    - Nous devons avoir une assurance medicale additionnelle
-    - Physio et therapeute fourni
-    - 
+    - Réponses:
+      - repas 3 par jour (dans la cabine le matin)
+      - activités sur site (parc aquatique) village vacance
+      - Jeune assuré par le forfait durant le jeu
+      - Nous devons avoir une assurance medicale additionnelle
+      - Physio et therapeute fourni
+      - 
   - Q. Addresse du camping pour notre groupe ?
     - à suivre
   - Extra :
