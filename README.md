@@ -4,7 +4,9 @@
 
 Si vous avez des questions n'hésitez pas a communiquer avec nous nous allons les noter et rendre les reponses disponible a tous.  Via l'onglet Issues. [Q&A](https://github.com/guyfrancoeur/Bordeaux2023/issues)
 
-Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce projet telque les études, donc ne vous sentez pas mal.  J'y pense toujours.. Si vous avez des inquiétudes nous seront la pour vous et votre enfants.
+Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce projet telque les études, donc ne vous sentez pas mal.  J'y pense toujours.. Si vous avez des inquiétudes nous seront là pour vous et votre enfants.
+
+
 
 ### Prochain livrable (milestone)
 
@@ -51,7 +53,7 @@ Emile | Oui |    |
 Aghilas | Oui |  |
 Yacoub | Oui |   |
 Ewen | Oui | Oui |
-Yohan | Oui | Oui<sup>4</sup> | <sup>1</sup>
+Yohan | Oui | Oui<sup>4</sup> |
 Vinh | Oui | Oui |
 Sami | Oui | Oui |
 Joachim | Oui | Oui |
@@ -130,27 +132,27 @@ Les fonds vont a ceux qui participent.
 
 ### Requis
 
-  Date de départ le 3 avril 2023 Soir ~21h00 heure de Montréal arrivé le 4 avril 2023 vers 10h30 heure de Paris
- 
-1.	Il y a trois paiements pour l’aspect hébergement (580$EU -- > ~740$CDN)
+1.	**Nous devons acheter des EUROS, svp garder l'oeil ouvert quand c'est bas, appeler moi.**
+    1. Besoin d'une place pour échanger de l'argent.
+2.	Il y a trois paiements pour l’aspect hébergement (580$EU -- > ~841$CDN)
     1. Le prix inclus le cout pour deux coachs
     2.	Le prix sera revu/calculé, devis en cours de production
-2.	Pour les billets d’avion :
+3.	Pour les billets d’avion :
     1.	Je vais faire une demande pour un prix de groupe (~900$CDN – les rabais)
     2.	Deux compagnies / agences seront contacter (je vous reviens en janvier)
     3.	Indiquez moi si vous avez un intérêt d’aller en France (facultatif)
-3.	Demande de fond de groupe :
+4.	Demande de fond de groupe :
     1.	Nous allons tenter de contacter des agences (ville, député, ministre, entreprises) pour trouver des fonds;
     2.	Un volontaire est nécessaire.
-4.	Pour ceux qui ont un passeport
+5.	Pour ceux qui ont un passeport
     1.	le passeport doit être valide 6 mois après la date de retour.
-5.	Pour ceux qui n’ont pas de passeport
+6.	Pour ceux qui n’ont pas de passeport
     1.	Il est nécessaire d’avoir une date de voyage pour accélérer la demande;
     2.	Si la demande est faites 20 jours avant le départ c’est assez rapide.
-6.	Demande pour le droit de jouer au soccer (à l’extérieur du Québec)
+7.	Demande pour le droit de jouer au soccer (à l’extérieur du Québec)
     1.	Pour les gens dans ARSRS ce sera fait pour vous (fait par club CSL, à confirmer);
     2.	Les autres vous devez obtenir une lettre de votre Directeur Technique régional.
-7.	Le droit de voyage pour jeune de 16 et moins
+8.	Le droit de voyage pour jeune de 16 et moins
     1.	Un gabarit sera fourni par Luigi (merci Luigi) [disponible ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
 
 
