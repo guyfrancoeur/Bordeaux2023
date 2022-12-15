@@ -11,7 +11,7 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 ### Prochain livrable (milestone)
 
  1. `29 Décembre 2022` **Paiement de l'insription** (ceci officialise l'inscription)
-    - nous avons recu la facture 200EUR.
+    - nous avons reçu la facture OceanCup `200€ EUR`.
  2. `13 Janvier 2023` **lettre de consentement de voyage** [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
  3. `13 Janvier 2023` **passeport**
     1. Confirmation des passports (date d'échéance);
