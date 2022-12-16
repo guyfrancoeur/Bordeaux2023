@@ -58,7 +58,7 @@ Vinh | Oui | 2 | 4.5ans | |
 Sami | Oui | 1 | | |
 Joachim | Oui | 2 | | |
 William | Oui |   | | |
-Caleb | Oui | | | |
+Caleb | Oui | 1 ou 2 | | |
 Luca | <sup>3</sup> |  | |  |
 Cheick | Oui |   | | |
 Liam | Oui |  | | |
@@ -70,7 +70,7 @@ Théo | Oui | 1 | |  |
 Isaak | | |  |  |<sup>3</sup>
    |  |   |  |  | 
 Kevin | Coach      |       |  |  |
-**Total**   |   **17J+1C**   |  **8P**   |  |  |
+**Total**   |   **17J+1C**   |  **9 ou 10**   |  |  |
 
 - `Passport` nombre d'année.mois restant après le 10 avail 2023;
 - <sup>1</sup> Question;
@@ -169,10 +169,12 @@ Les fonds vont a ceux qui participent.
     4. des dates de retour personnalisées seront tentées avec notre arrangeur de voyage.
        1. Négociation de groupe pour obtenir un prix.
        2. Les parents qui voudraient aller en France, vous devez me prévenir.
-  3. Adonis Montreal
+ 3. Mode de paiement, virement, compte bancaire.
+    1. Nous allons bientot avoir besoin de qqc de formel pour suivre nos finances.
+ 4. Adonis Montreal
      1. Responsable Patricia Claros : 514.264.3027
      2. Confirmer la présence via courriel Patricia et Guy.
-  5. Adonis Brossard (date à confirmer)
+ 5. Adonis Brossard (date à confirmer)
      1. Papa Sami Talbi : 
 
 ### Questions
