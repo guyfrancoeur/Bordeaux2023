@@ -69,6 +69,7 @@ Elliot | Oui<sup>2</sup> |  |  |  |
 Kristopher | Oui |  |   |  | <sup>1</sup>
 Otoniel | Oui |  | |  |
 Théo | Oui | 1 | |  |
+Daniel | Oui | |  |  |
 Isaak | | |  |  |<sup>3</sup>
    |  |   |  |  | 
 Kevin | Coach      |       |  |  |
@@ -101,7 +102,7 @@ Les fonds vont a ceux qui participent.
     + Ewen
 
  - Samedi 17 décembre 2022 (Dix30 coin/SAQ):
-   - 13h a 16h (complet)
+   - 13h a 16h (complet) **Besoin de pots** 
      - Sami
      - Vinh
      - Yohan
@@ -113,6 +114,7 @@ Les fonds vont a ceux qui participent.
      - Aghilas
      - Otoniel
      - Théo
+     - Daniel 
 
  - Jeudi 29 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
