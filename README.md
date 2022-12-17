@@ -102,10 +102,9 @@ Les fonds vont a ceux qui participent.
     + Ewen
 
  - Samedi 17 décembre 2022 (Dix30 coin/SAQ):
-   - 13h a 16h (complet)  🍯🍯🍯 **Besoin de pots** 🍯🍯🍯
+   - 13h a 16h (complet)  🍯🍯🍯 **Besoin de pots** 🍯🍯🍯 
      - Sami
-     - Vinh
-     - Yohan
+     - Vinh (avec pots)
      - William (avec Pots additionels)
      - Kristopher
      - Ewen
@@ -114,7 +113,9 @@ Les fonds vont a ceux qui participent.
      - Aghilas
      - Otoniel
      - Théo
-     - Daniel 
+     - Daniel (avec pot)
+     - Elliot (avec pot)
+   - Pot du style lingettes Lysol idéal pour le format et le branding.
 
  - Jeudi 29 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
