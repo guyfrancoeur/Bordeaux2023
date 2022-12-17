@@ -136,8 +136,8 @@ Aghilas | Oui |  | | |
 Yacoub | Oui |   | | |
 Ewen | Oui | 1 | | |
 Yohan | Oui | 1<sup>4</sup> | | |
-Vinh | Oui | 2 | 4.5ans | |
-Sami | Oui | 1 | | |
+Vinh | Oui | 2 | 4a.6m | |
+Sami | Oui | 1 | 4a.2m| |
 Joachim | Oui | 2 | | |
 William | Oui |   | | |
 Caleb | Oui | 1 ou 2 | | |
@@ -155,7 +155,7 @@ Isaak | | |  |  |<sup>3</sup>
 Kevin | Coach      |       |  |  |
 **Total**   |   **17J+1C**   |  **9 ou 10**   |  |  |
 
-- `Passport` nombre d'année.mois restant après le 10 avail 2023;
+- `Passport` nombre d'année.mois restant après le 16 avril 2023;
 - <sup>1</sup> Question;
 - <sup>2</sup> Verbale;
 - <sup>3</sup> Besoin de quelques joursl
