@@ -210,7 +210,6 @@ Les fonds vont a ceux qui participent.
    - 13h a 16h (complet)  🍯🍯🍯 **Besoin de pots** 🍯🍯🍯 
      - Sami
      - Vinh (avec pots)
-     - William (avec Pots additionels)
      - Kristopher
      - Ewen
      - Yacoub
