@@ -8,22 +8,87 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 
 
 
-### Prochain livrable (milestone)
+### Prochain livrables (milestone)
 
- 1. `29 Décembre 2022` **Paiement de l'insription** (ceci officialise l'inscription)
-    - nous avons reçu la facture OceanCup `200€ EUR`.
- 2. `13 Janvier 2023` **lettre de consentement de voyage** [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
- 3. `13 Janvier 2023` **passeport**
-    1. Confirmation des passports (date d'échéance);
-    2. Confirmation des demandes de passeport à venir.
- 4. `19 Janvier 2023` **Paiement du devis d'hébergement** (ceci officialise la réservation)
-    1. 18+2+2=22 personnes (30%)
+Janvier
+| Sun               | Mon               | Tue               | Wed               | Thu               | Fri               | Sat               |
+| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| [1](#2023-01-01)  | [2](#2023-01-02)  | [3](#2023-01-03)  | [4](#2023-01-04)  | [5](#2023-01-05)  | [6](#2023-01-06)  | [7](#2023-01-07)  |
+| [8](#2023-01-08)  | [9](#2023-01-09)  | [10](#2023-01-10) | [11](#2023-01-11) | [12](#2023-01-12) | [13](#2023-01-13) | [14](#2023-01-14) |
+| [15](#2023-01-15) | [16](#2023-01-16) | [17](#2023-01-17) | [18](#2023-01-18) | [19](#2023-01-19) | [20](#2023-01-20) | [21](#2023-01-21) |
+| [22](#2023-01-22) | [23](#2023-01-23) | [24](#2023-01-24) | [25](#2023-01-25) | [26](#2023-01-26) | [27](#2023-01-27) | [28](#2023-01-28) |
+| [29](#2023-01-29) | [30](#2023-01-30) | [31](#2023-01-31) |                   |                   |                   |                   |
+#### 2022-12-29
+**Paiement de l'insription** (ceci officialise l'inscription) 200€
 
+#### 2023-01-05
+demande de report du paiment au 19 janvier 2023
+
+#### 2023-01-12
+**lettre de consentement de voyage** [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
+
+#### 2023-01-13
+**passeport**
+  1. Confirmation des passports (date d'échéance);
+  2. Confirmation des demandes de passeport à venir.
+
+#### 2023-01-19
+**Paiement du devis d'hébergement** (ceci officialise la réservation) 30% en Euros
+
+#### 2023-01-26
+**Identification de l'équipe de responsable
  - Identification des coachs (2);
  - Identification des parents responsables (2);
+ - Possiblement nous auront besoin de chauffeurs responsable des transports;
  - Les autres vous êtes des parents accompagnateurs 🥰, des supporteurs.
 
+## Horraire du séjour 
+ 
+ **Proposition B (nouveau)**
+ 
+Les vacances en france sont du 10 au 15 avril 2023 
+Avantages :
+- possible de faire plus de matchs (5 au lieu de 2)
+- Les matchs peuvent etre le matin ou en pm au lieu du soir apres 17h
+
+- 6 avril départ
+  - vers 21h00 Dorval
+- 7 avril arrivé
+  - vers 10h30 Paris
+  - vers 14h00 Bordeaux
+  - vers 15h00 Visite secrète du Matmut (car ils ne doivent pas dormir avant 21h)
+  - vers 18h00 Visite/Souper : Cité du vin
+  - vers 21h00 retour au camping : dodo
+- 8 avril tournoi
+  - .. 2x Match de 50min
+- 9 avril tournoi
+  - ..
+- 10 avril
+  - AM Match vs
+  - PM
+  - Soir
+- 11 avril
+  - AM Match vs
+  - PM
+  - Soir
+- 12 avril
+  - AM Match vs
+  - PM
+  - Soir
+- 13 avril
+  - AM Match vs
+  - PM
+- 14 avril
+  - AM Match vs
+  - PM
+  - Soir
+- 15 avril retour
+  - transport pour plusieurs vers aéroport de Bordeaux
+
 ## Horraire du séjour
+  
+  **Proposition A**
+  
 - 3 avril départ
   - vers 21h00 Dorval
 - 4 avril arrivé
@@ -33,19 +98,29 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
   - vers 18h00 Visite/Souper : Cité du vin
   - vers 21h00 retour au camping : dodo
 - 5 avril
-  - Match vs
+  - AM
+  - PM
+  - Soir 17h+ : Match vs FMCI
 - 6 avril
-  - Match vs
+  - AM
+  - PM
+  - Soir 17h+ : Match vs Girondins
 - 7 avril
-  - Match vs
+  - AM :
+  - PM :  
+  - Soir 17h+ : Match vs
 - 8 avril tournoi
-  - ..
+  - 2 Match
 - 9 avril tournoi
-  - ..
+  - 2 Match
 - 10 avril retour
   - transport pour plusieurs vers aéroport de Bordeaux
 
+voici le tableau en 2022 : https://fcmi-club.fr/bordeaux-ocean-cup-2022/
+
 ---
+
+## Joueurs
 
 **Liste des retours sur le projet qui confirme la participation**
 
