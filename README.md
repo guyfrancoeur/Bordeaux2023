@@ -48,8 +48,10 @@ demande de report du paiment au 19 janvier 2023
  
 Les vacances en france sont du 10 au 15 avril 2023 
 Avantages :
-- possible de faire plus de matchs (5 au lieu de 2)
-- Les matchs peuvent etre le matin ou en pm au lieu du soir apres 17h
+- possible de faire plus de matchs (5 au lieu de 2);
+- disponibilité des équipes;
+- plus de flexibilité pour les heures des matchs (matin ou en pm au lieu du soir apres 17h);
+- plus de flexibilité pour les activités.
 
 - 6 avril départ
   - vers 21h00 Dorval
