@@ -13,7 +13,7 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 Janvier 2023
 | Sun               | Mon               | Tue               | Wed               | Thu               | Fri               | Sat               |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| [1](#2023-01-01)  | [2](#2023-01-02)  | [3](#2023-01-03)  | [4](#2023-01-04)  | ⍟[5](#2023-01-05)  | [6](#2023-01-06)  | [7](#2023-01-07)  |
+| [1](#2023-01-01)  | [2](#2023-01-02)  | [3](#2023-01-03)  | [4](#2023-01-04)  | ⍟[5](#2023-01-05)  | ⍟[6](#2023-01-06)  | [7](#2023-01-07)  |
 | [8](#2023-01-08)  | [9](#2023-01-09)  | [10](#2023-01-10) | [11](#2023-01-11) | ⍟[12](#2023-01-12) | ⍟[13](#2023-01-13) | [14](#2023-01-14) |
 | [15](#2023-01-15) | [16](#2023-01-16) | [17](#2023-01-17) | [18](#2023-01-18) | ⍟[19](#2023-01-19) | [20](#2023-01-20) | [21](#2023-01-21) |
 | [22](#2023-01-22) | [23](#2023-01-23) | [24](#2023-01-24) | [25](#2023-01-25) | ⍟[26](#2023-01-26) | [27](#2023-01-27) | [28](#2023-01-28) |
@@ -23,6 +23,9 @@ Janvier 2023
 
 #### 2023-01-05
 demande de report du paiment au 19 janvier 2023
+
+#### 2023-01-06
+création du compte bancaire
 
 #### 2023-01-12
 **lettre de consentement de voyage** [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
@@ -36,7 +39,7 @@ demande de report du paiment au 19 janvier 2023
 **Paiement du devis d'hébergement** (ceci officialise la réservation) 30% en Euros
 
 #### 2023-01-26
-**Identification de l'équipe de responsable
+**Identification de l'équipe de responsable**
  - Identification des coachs (2);
  - Identification des parents responsables (2);
  - Possiblement nous auront besoin de chauffeurs responsable des transports;
