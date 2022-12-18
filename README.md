@@ -82,10 +82,10 @@ Avantages :
 - plus de flexibilité pour les activités.
 
 - 6 avril départ
-  - vers 21h00 Dorval
+  - vers 21h00 à Dorval
 - 7 avril arrivé
-  - vers 10h30 Paris
-  - vers 14h00 Bordeaux
+  - vers 10h30 à Paris
+  - vers 14h00 à Bordeaux
   - vers 15h00 Visite secrète du Matmut (car ils ne doivent pas dormir avant 21h)
   - vers 18h00 Visite/Souper : Cité du vin
   - vers 21h00 retour au camping : dodo
@@ -122,10 +122,10 @@ Avantages :
   **Proposition A**
   
 - 3 avril départ
-  - vers 21h00 Dorval
+  - vers 21h00 à Dorval
 - 4 avril arrivé
-  - vers 10h30 Paris
-  - vers 14h00 Bordeaux
+  - vers 10h30 à Paris
+  - vers 14h00 à Bordeaux
   - vers 15h00 Visite secrète du Matmut (car ils ne doivent pas dormir avant 21h)
   - vers 18h00 Visite/Souper : Cité du vin
   - vers 21h00 retour au camping : dodo
