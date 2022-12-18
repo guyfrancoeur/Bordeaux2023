@@ -90,30 +90,32 @@ Avantages :
   - vers 18h00 Visite/Souper : Cité du vin
   - vers 21h00 retour au camping : dodo
 - 8 avril tournoi
-  - .. 2x Match de 50min
+  - 2x Match de 50min (2x25)
 - 9 avril tournoi
-  - ..
+  - 2x Match de 50min (2x25)
 - 10 avril
-  - AM Match vs
+  - AM Match vs Pau<sup>s</sup>
   - PM
   - Soir
 - 11 avril
-  - AM Match vs
+  - AM Match vs Saint-Etienne<sup>s</sup>
   - PM
   - Soir
 - 12 avril
-  - AM Match vs
+  - AM Match vs Girondins<sup>s</sup>
   - PM
   - Soir
 - 13 avril
-  - AM Match vs
+  - AM Match vs Toulouse<sup>s</sup>
   - PM
 - 14 avril
-  - AM Match vs
+  - AM Match vs FCMI<sup>s</sup>
   - PM
   - Soir
 - 15 avril retour
-  - transport pour plusieurs vers aéroport de Bordeaux
+  - transport vers aéroport de Bordeaux
+
+<sup>s</sup> a titre d'exemple
 
 ## Horraire du séjour
   
