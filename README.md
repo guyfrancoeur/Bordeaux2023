@@ -236,6 +236,7 @@ Les fonds vont a ceux qui participent.
      - Yacoub
      - Otoniel
      - Vinh
+     - Théo
 
  - Vendredi 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
