@@ -225,7 +225,7 @@ Les fonds vont a ceux qui participent.
    - minimum de **`6`** personnes pour que l'événement ait lieu
    - avoir les chandails jaunes de match (obligatoire)
    - avoir une attitude irréprochable et une politesse exemplaire
-     - vous avez la reponsabilité de passer le message à vos enfants
+     - vous avez la responsabilité de passer le message à vos enfants
    - 11h00 @ 16h00 (5h)
      - Kris
      - Yohan
@@ -240,7 +240,7 @@ Les fonds vont a ceux qui participent.
    - minimum de **`6`** personnes pour que l'événement ait lieu
    - avoir les chandails jaunes de match (obligatoire)
    - avoir une attitude irréprochable et une politesse exemplaire
-     - vous avez la reponsabilité de passer le message à vos enfants
+     - vous avez la responsabilité de passer le message à vos enfants
    - 11h00 @ 16h00 (5h)
      - Kris
      - Cheick
