@@ -206,10 +206,9 @@ Les fonds vont a ceux qui participent.
     + Joachim
     + Ewen
 
- - Samedi 17 décembre 2022 (Dix30 coin/SAQ):
+ - Samedi 17 décembre 2022 (Dix30 coin/SAQ): 1375$
    - 13h a 16h (complet)  🍯🍯🍯 **Besoin de pots** 🍯🍯🍯 
      - Sami
-     - Vinh (avec pots)
      - Kristopher
      - Ewen
      - Yacoub
@@ -231,6 +230,7 @@ Les fonds vont a ceux qui participent.
      - Aghilas
      - Yacoub
      - Otoniel
+     - Vinh
 
  - Vendredi 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
@@ -240,6 +240,7 @@ Les fonds vont a ceux qui participent.
      - Cheick
      - Yacoub
      - Otoniel
+     - Vinh
 
 ### Requis
 
