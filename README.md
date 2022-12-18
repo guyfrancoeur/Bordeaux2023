@@ -74,7 +74,7 @@ création du compte bancaire
  
  **Proposition B (nouveau)**
  
-Les vacances en france sont du 10 au 15 avril 2023 
+Les vacances en France sont du 10 au 15 avril 2023 
 Avantages :
 - possible de faire plus de matchs (5 au lieu de 2);
 - disponibilité des équipes;
