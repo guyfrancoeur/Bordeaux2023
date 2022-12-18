@@ -156,14 +156,14 @@ voici le tableau en 2022 : https://fcmi-club.fr/bordeaux-ocean-cup-2022/
 
 **Liste des retours sur le projet qui confirme la participation**
 
-Joueur | Confirmé| Parents | Passport | Lettre | Questions
+Joueur | Confirmé | Parents | Passport | Lettre | Questions
 :--- | :---: | :---: | :---: | :---: | :---
 Emile | Oui |        | | |
 Aghilas | Oui |  | | |
 Yacoub | Oui |   | | |
 Ewen | Oui | 1 | | |
 Yohan | Oui | 1<sup>4</sup> | | |
-Vinh | Oui | 2 | 4a.6m | |
+Vinh | Oui B | 2 | 4a.6m | |
 Sami | Oui | 1 | 4a.2m| |
 Joachim | Oui | 2 | | |
 William | Oui |   | | |
@@ -174,7 +174,7 @@ Liam | Oui |  | | |
 Ilyan | Oui |  | | |
 Elliot | Oui<sup>2</sup> |  |  |  |
 Kristopher | Oui |  |   |  | <sup>1</sup>
-Otoniel | Oui |  | |  |
+Otoniel | Oui B |  | |  |
 Théo | Oui | 1 | |  |
 Daniel | Oui | |  |  |
 Isaak | | |  |  |<sup>3</sup>
