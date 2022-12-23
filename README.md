@@ -168,7 +168,7 @@ Sami | Oui | 1 | 4a.2m| |
 Joachim | Oui | 2 | | |
 William | Oui |   | | |
 Caleb | Oui | 1 ou 2 | | |
-Luca | <sup>3</sup> |  | |  |
+Luca | Oui |  | |  |
 Cheick | Oui |   | | |
 Liam | Oui |  | | |
 Ilyan | Oui |  | | |
@@ -180,12 +180,12 @@ Daniel | Oui | |  |  |
 Isaak | Oui | |  |  |
    |  |   |  |  | 
 Kevin | Coach      |       |  |  |
-**Total**   |   **17J+1C**   |  **9 ou 10**   |  |  |
+**Total**   |   **20J+1C**   |  **9 ou 10**   |  |  |
 
 - `Passport` nombre d'année.mois restant après le 16 avril 2023;
 - <sup>1</sup> Question;
 - <sup>2</sup> Verbale;
-- <sup>3</sup> Besoin de quelques joursl
+- <sup>3</sup> Besoin de quelques jours;
 - <sup>4</sup> Possible.
 
 ### Levée de fonds (facultatif)
