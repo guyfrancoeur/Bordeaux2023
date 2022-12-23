@@ -6,7 +6,7 @@ Si vous avez des questions n'hésitez pas a communiquer avec nous nous allons le
 
 Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce projet telque les études, donc ne vous sentez pas mal.  J'y pense toujours.. Si vous avez des inquiétudes nous seront là pour vous et votre enfants.
 
-
+Pour si retrouver : [clic moi](https://www.google.com/maps/d/u/0/edit?mid=1VdnA9ThqQF8tnUslz9Hj8aTbvQNUm58&usp=sharing)
 
 ### Prochain livrables (milestone)
 
