@@ -237,6 +237,7 @@ Les fonds vont a ceux qui participent.
      - Otoniel
      - Vinh
      - Théo
+     - Luca
      - Liam
 
  - Vendredi 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
@@ -251,6 +252,7 @@ Les fonds vont a ceux qui participent.
      - Yacoub
      - Otoniel
      - Vinh
+     - Luca
      - Isaak
 
 ### Requis
