@@ -324,12 +324,12 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
       - activités sur site (parc aquatique) village vacance
       - Jeune assuré par le forfait durant le jeu
       - Nous devons avoir une assurance medicale additionnelle
-      - Physio et therapeute fourni
+      - Physio et thérapeute fourni
   - Q. Est-ce possible de confirmer les service offert par courriel ?
     - (verbale uniquement).
   - Q. Le parc aquatique est ouvert au moment du séjour ?
 
-  - Q. Y a t'il des reponsables qui s'occupent de la sécurité des enfants ?
+  - Q. Y a t'il des responsables qui s'occupent de la sécurité des enfants ?
     - À priori il n'y a pas de service offert par OceanCup en ce qui concerne la sécurité.
     - Lieu privé, les responsables dorment dans des cabines autours des cabines des jeunes.
   - Q. Horaire du séjour (Option B est priorisée) (voir gabarit dans le site)
