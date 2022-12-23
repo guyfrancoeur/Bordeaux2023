@@ -294,7 +294,7 @@ Les fonds vont a ceux qui participent.
     1. Nous allons bientot avoir besoin de qqc de formel pour suivre nos finances.
  4. Adonis Montreal
      1. Responsable Patricia Claros : 514.264.3027
-     2. Confirmer la présence via courriel Patricia et Guy.
+     2. Confirmer la présence via courriel à Patricia et Guy.
  5. Adonis Brossard (date à confirmer)
      1. Papa Sami Talbi : 
 
@@ -302,33 +302,42 @@ Les fonds vont a ceux qui participent.
 
 Voici mon planning avec **`OceanCup`** pour les prochains jours
 
-- Jeudi 15 décembre 10h45 nous allons parler de ces questions:
-  - Q. Comment payer ? Le montant à payer et dates des paiements ?
-    - R. Ils ont un logiciel pour la gestion du projet. à suivre.
-  - Q. Lieu des matchs (surface, durée) et distance du camping ?
-    - a venir
-  - Q. Comment ce fait les transports durant le séjour ?
-     - R. Peu importe l'activité une navette sera incluse matin et soir. (aller-retour);
-     - R. Mais les departs sont a des heures déterminées.
-  - Q. Formule des matchs amicaux et qui et quand?
-    - Durée au choix.
-    - Montignac-Lascaux, Mercredi 5 avril 2023, Lieu : ?
-    - Girondins, Jeudi 6 avril 2023, Lieu : ?
+- Communications 
+  - Jeudi 15 décembre 10h45 ZOOM
+  - Jeudi 22 décembre via courriel
+- Questions:
+  - Q. Quel est la marche à suivre complète, pour payer ?
+    - 
+  - Q. Quel est le lien, le login et le password pour accéder à l'application de gestion de l'équipe ?
+    - 
+  - Q. Lieu des matchs du tournoi (adresse, surface) ?
+    - 
+  - Q. Formule des matchs amicaux et Horaire et adresse des matchs ?
+    - 
   - Q. Formule du tournoi *exemple l’horaire de l’an passé* ?
-    -  à venir
-  - Q. Y a t'il des reponsables qui s'occupent de la sécurité des enfants ?
-    - Lieu privé, les responsables dorment dans des cabines autours des cabines des jeunes.
+    - GF : https://fcmi-club.fr/bordeaux-ocean-cup-2022/
+  - Q. Adresse du camping pour notre groupe ?
+    - 
   - Q. Quels sont les services offerts (bobo de matchs, bobo en dehors, clinique ) ?
-    - Réponses:
+    - Réponses GF :
       - repas 3 par jour (dans la cabine le matin)
       - activités sur site (parc aquatique) village vacance
       - Jeune assuré par le forfait durant le jeu
       - Nous devons avoir une assurance medicale additionnelle
       - Physio et therapeute fourni
-      - 
-  - Q. Addresse du camping pour notre groupe ?
-    - à suivre
-  - Extra :
-    - Une agence voyage sera proposé : ... Steve Terramont
+  - Q. Est-ce possible de confirmer les service offert par courriel ?
+    - (verbale uniquement).
+  - Q. Le parc aquatique est ouvert au moment du séjour ?
+    - 
+  - Q. Y a t'il des reponsables qui s'occupent de la sécurité des enfants ?
+    - À priori il n'y a pas de service offert par OceanCup en ce qui concerne la sécurité.
+    - Lieu privé, les responsables dorment dans des cabines autours des cabines des jeunes.
+  - Q. Horaire du séjour (Option B est priorisée) (voir gabarit dans le site)
+    - Option B :
+    - Option A :
+
+  - Q. Est-ce possible d'obtenir un premier jet des réponses d'ici le 26 Decembre 2022 ?
+
+  - Q. Est-ce possible un deuxième jet le 28 décembre 2022 ?
 
 ---
