@@ -177,7 +177,7 @@ Kristopher | Oui |  |   |  | <sup>1</sup>
 Otoniel | Oui B |  | |  |
 Théo | Oui | 1 | |  |
 Daniel | Oui | |  |  |
-Isaak | | |  |  |<sup>3</sup>
+Isaak | Oui | |  |  |
    |  |   |  |  | 
 Kevin | Coach      |       |  |  |
 **Total**   |   **17J+1C**   |  **9 ou 10**   |  |  |
@@ -237,6 +237,7 @@ Les fonds vont a ceux qui participent.
      - Otoniel
      - Vinh
      - Théo
+     - Liam
 
  - Vendredi 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
@@ -250,16 +251,17 @@ Les fonds vont a ceux qui participent.
      - Yacoub
      - Otoniel
      - Vinh
+     - Isaak
 
 ### Requis
 
 1.	**Nous devons acheter des EUROS, svp garder l'oeil ouvert quand c'est bas, appeler moi.**
     1. Besoin d'une place pour échanger de l'argent.
-2.	Il y a trois paiements pour l’aspect hébergement (580$EU -- > ~841$CDN)
+2.	Il y a trois paiements pour l’aspect hébergement (580$EU --> ~841$CDN)
     1. Le prix inclus le cout pour deux coachs
     2.	Le prix sera revu/calculé, devis en cours de production
 3.	Pour les billets d’avion :
-    1.	Je vais faire une demande pour un prix de groupe (~900$CDN – les rabais)
+    1.	Je vais faire une demande pour un prix de groupe (~900$CDN moins les rabais)
     2.	Deux compagnies / agences seront contacter (je vous reviens en janvier)
     3.	Indiquez moi si vous avez un intérêt d’aller en France (facultatif)
 4.	Demande de fond de groupe :
