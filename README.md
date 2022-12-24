@@ -8,6 +8,8 @@ Outre le sport il y a d'autres facteurs qui sont important avant la tenu de ce p
 
 Pour si retrouver : [carte du projet](https://www.google.com/maps/d/u/0/edit?mid=1VdnA9ThqQF8tnUslz9Hj8aTbvQNUm58&usp=sharing)
 
+Météo a Bordeaux : [météo AVRIL 2022](https://www.historique-meteo.net/france/aquitaine/bordeaux/2022/04/)
+
 ### Prochain livrables (milestone)
 
 Janvier 2023
