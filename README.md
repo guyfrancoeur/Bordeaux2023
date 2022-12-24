@@ -89,14 +89,14 @@ Avantages :
   - vers 10h30 à Paris
   - vers 14h00 à Bordeaux
   - vers 15h00 Visite secrète du Matmut (car ils ne doivent pas dormir avant 21h)
-  - vers 18h00 Visite/Souper : Cité du vin
-  - vers 21h00 retour au camping (yelloh : dodo
+  - vers 18h00 Visite/Souper : ???
+  - vers 21h00 retour au camping (www.yellohvillage.fr) : dodo
 - 8 avril tournoi
   - 2x Match de 50min (2x25)
 - 9 avril tournoi
   - 2x Match de 50min (2x25)
 - 10 avril
-  - AM  
+  - AM 
   - PM Match vs ???
   - Soir
 - 11 avril
@@ -113,12 +113,15 @@ Avantages :
   - Soir 
 - 14 avril
   - AM 
-  - PM Match vs FCMI<sup>t</sup> ou Pau<sup>t</sup>
+  - PM Match vs FCMI<sup>t</sup> ou Pau<sup>t</sup> ou ???
   - Soir 
 - 15 avril retour
   - transport vers aéroport de Bordeaux
 
-![Extrait de la présenrtation](./10a15.png)
+
+#### Eatrait de la présentation
+
+![Extrait de la présentation](./10a15.png)
 
 <sup>s</sup> à titre d'exemple
 <sup>p</sup> proposition
