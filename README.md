@@ -176,7 +176,7 @@ Yohan | Oui | 1<sup>4</sup> | | |
 Vinh | Oui B | 2 | 4a.6m | |
 Sami | Oui | 1 | 4a.2m| |
 Joachim | Oui | 2 | | |
-William | Oui |   | | |
+William | Oui B |   | | |
 Caleb | Oui | 1 ou 2 | | |
 Luca | Oui |  | |  |
 Cheick | Oui |   | | |
@@ -262,6 +262,7 @@ Les fonds vont a ceux qui participent.
      - Yacoub
      - Otoniel
      - Vinh
+     - William
      - Luca
      - Isaak
 
