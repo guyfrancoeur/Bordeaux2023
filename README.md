@@ -125,9 +125,9 @@ Avantages :
 
 #### Légende
 
-<sup>s</sup> à titre d'exemple
-<sup>p</sup> proposition
-<sup>t</sup> tentatif
+- <sup>s</sup> à titre d'exemple
+- <sup>p</sup> proposition
+- <sup>t</sup> tentatif
 
 ## Horraire du séjour
   
