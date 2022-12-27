@@ -53,8 +53,8 @@ création du compte bancaire
 
 #### 2023-01-13
 **passeport**
-  1. Confirmation des passports (date d'échéance);
-  2. Confirmation des demandes de passeport à venir.
+  1. Confirmation des passeports (date d'échéance);
+  2. Confirmation que vous devez procéder à une demande (démarche) de passeport.
 
 #### 2023-01-19
 **Paiement du devis d'hébergement** (ceci officialise la réservation) 30% en Euros
