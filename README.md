@@ -372,7 +372,7 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
 
 - [1](https://www.cars-de-france.com/tarifs-location-autocar/)
 - [2](https://www.location-bus.fr/)
-- [3](./#)
+- [3](https://locationminibus.fr/))
 
 `Exemple Hébergements`
 
