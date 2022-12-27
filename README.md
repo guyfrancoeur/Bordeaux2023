@@ -248,9 +248,7 @@ Les fonds vont a ceux qui participent.
      - Yacoub
      - Otoniel
      - Vinh
-     - Théo
      - Luca
-     - Liam
      - Joachim
      - Daniel
 
@@ -271,6 +269,8 @@ Les fonds vont a ceux qui participent.
      - Isaak
      - Joachim
      - Daniel
+     - Théo
+     - Liam
 
 ### Requis
 
@@ -362,11 +362,13 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
 ### Références
 
 `Exemple de vols/couts`
-- avec Air France
+- avec Air France (2)
 ![vol-yul-bod](./vol-yul-bod.png)
+![af-yul-bod](./af-yul-bod.png)
 - avec British Airways (pas bon, long)
 - avec Air Canada (à venir)
-- avec Corsair (à venir)
+- avec Corsair (pas disponible)
+- avec transat (à venir)
 
 `Exemple transport local`
 
