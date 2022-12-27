@@ -177,7 +177,7 @@ Ewen | Oui | 1 | | |
 Yohan | Oui | 1<sup>4</sup> | | |
 Vinh | Oui B | 2 | 4a.6m | |
 Sami | Oui | 1 | 4a.2m| |
-Joachim | Oui | 2 | | |
+Joachim | Oui | 2 | 4a.11m | |
 William | Oui B |   | | |
 Caleb | Oui | 1 ou 2 | | |
 Luca | Oui |  | |  |
@@ -185,7 +185,7 @@ Cheick | Oui |   | | |
 Liam | Oui |  | | |
 Ilyan | Oui |  | | |
 Elliot | Oui<sup>2</sup> |  |  |  |
-Kristopher | Oui |  |   |  | <sup>1</sup>
+Kristopher | Oui |  |   |  |
 Otoniel | Oui B |  | |  |
 Théo | Oui | 1 | |  |
 Daniel | Oui | |  |  |
@@ -292,7 +292,7 @@ Les fonds vont a ceux qui participent.
     1.	Il est nécessaire d’avoir une date de voyage pour accélérer la demande;
     2.	Si la demande est faites 20 jours avant le départ c’est assez rapide.
 7.	Demande pour le droit de jouer au soccer (à l’extérieur du Québec)
-    1.	Pour les gens dans ARSRS ce sera fait pour vous (fait par club CSL, à confirmer);
+    1.	Pour les gens dans ARSRS ce sera fait pour vous (fait par CSL, à confirmer);
     2.	Les autres vous devez obtenir une lettre de votre Directeur Technique régional.
 8.	Le droit de voyage pour jeune de 16 et moins
     1.	Un gabarit sera fourni par Luigi (merci Luigi) [disponible ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
@@ -324,6 +324,7 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
 - Communications 
   - Jeudi 15 décembre 10h45 ZOOM
   - Jeudi 22 décembre via courriel
+  - Mercredi 28 décembre via zoom
 - Questions:
   - Q. Quel est la marche à suivre complète, pour payer ?
 
