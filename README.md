@@ -119,9 +119,11 @@ Avantages :
   - transport vers aéroport de Bordeaux
 
 
-#### Eatrait de la présentation
+#### Extrait de la présentation (une proposition / ébauche)
 
 ![Extrait de la présentation](./10a15.png)
+
+#### Légende
 
 <sup>s</sup> à titre d'exemple
 <sup>p</sup> proposition
@@ -351,5 +353,18 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
   - Q. Est-ce possible d'obtenir un premier jet des réponses d'ici le 26 Decembre 2022 ?
 
   - Q. Est-ce possible un deuxième jet le 28 décembre 2022 ?
+
+### Références
+
+`Exemple de vols/couts`
+![vol-yul-bod](./vol-yul-bod.png)
+
+`Exemple transport local`
+
+à venir
+
+`Exemple Hébergements`
+
+à venir
 
 ---
