@@ -84,13 +84,13 @@ Avantages :
 - plus de flexibilité pour les activités.
 
 - 6 avril départ
-  - vers 21h00 à Dorval
+  - vers 21h00 à Dorval [voir référence](#références)
 - 7 avril arrivé
-  - vers 10h30 à Paris
-  - vers 14h00 à Bordeaux
+  - vers 10h30 à Paris [voir référence](#références)
+  - vers 14h00 à Bordeaux [voir référence](#références)
   - vers 15h00 Visite secrète du Matmut (car ils ne doivent pas dormir avant 21h)
   - vers 18h00 Visite/Souper : ???
-  - vers 21h00 retour au camping (www.yellohvillage.fr) : dodo
+  - vers 21h00 retour au camping [www.yellohvillage.fr](www.yellohvillage.fr) : dodo
 - 8 avril tournoi
   - 2x Match de 50min (2x25)
 - 9 avril tournoi
@@ -357,7 +357,11 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
 ### Références
 
 `Exemple de vols/couts`
+- avec Air France
 ![vol-yul-bod](./vol-yul-bod.png)
+- avec British Airways (pas bon, long)
+- avec Air Canada (à venir)
+- avec Corsair (à venir)
 
 `Exemple transport local`
 
