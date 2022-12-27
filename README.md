@@ -251,6 +251,8 @@ Les fonds vont a ceux qui participent.
      - Théo
      - Luca
      - Liam
+     - Joachim
+     - Daniel
 
  - Vendredi 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
@@ -267,6 +269,8 @@ Les fonds vont a ceux qui participent.
      - William
      - Luca
      - Isaak
+     - Joachim
+     - Daniel
 
 ### Requis
 
