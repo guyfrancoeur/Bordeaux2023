@@ -168,7 +168,7 @@ voici le tableau en 2022 : https://fcmi-club.fr/bordeaux-ocean-cup-2022/
 
 **Liste des retours sur le projet qui confirme la participation**
 
-Joueur | Confirmé | Parents | Passport | Lettre | Questions
+Joueur | Confirmé | Parents | Passeport | Lettre | Questions
 :--- | :---: | :---: | :---: | :---: | :---
 Emile | Oui |        | | |
 Aghilas | Oui |  | | |
@@ -194,7 +194,7 @@ Isaak | Oui | |  |  |
 Kevin | Coach      |       |  |  |
 **Total**   |   **20J+1C**   |  **9 ou 10**   |  |  |
 
-- `Passport` nombre d'année.mois restant après le 16 avril 2023;
+- `Passeport` nombre d'année.mois restant après le 16 avril 2023;
 - <sup>1</sup> Question;
 - <sup>2</sup> Verbale;
 - <sup>3</sup> Besoin de quelques jours;
@@ -240,7 +240,7 @@ Les fonds vont a ceux qui participent.
    - avoir les chandails jaunes de match (obligatoire)
    - avoir une attitude irréprochable et une politesse exemplaire
      - vous avez la responsabilité de passer le message à vos enfants
-   - 11h00 @ 16h00 (5h)
+   - 11h00 @ 16h00 (5h) Complet à 10
      - Kris
      - Yohan
      - Emile
@@ -258,7 +258,7 @@ Les fonds vont a ceux qui participent.
    - avoir les chandails jaunes de match (obligatoire)
    - avoir une attitude irréprochable et une politesse exemplaire
      - vous avez la responsabilité de passer le message à vos enfants
-   - 11h00 @ 16h00 (5h)
+   - 11h00 @ 16h00 (5h) complet à 10
      - Kris
      - Cheick
      - Yacoub
