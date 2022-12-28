@@ -194,7 +194,7 @@ Emile | Oui B |        | | |
 Aghilas | Oui |  | | |
 Yacoub | Oui |   | | |
 Ewen | Oui | 1 | | |
-Yohan | Oui | 1<sup>4</sup> | | |
+Yohan | Oui B | 1<sup>4</sup> | 4a.7m | |
 Vinh | Oui B | 2 | 4a.6m | |
 Sami | Oui | 1 | 4a.2m| |
 Joachim | Oui | 2 | 4a.11m | |
