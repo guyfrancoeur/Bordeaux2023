@@ -89,7 +89,7 @@ Avantages :
   - vers 10h30 à Paris [voir référence](#références)
   - vers 14h00 à Bordeaux [voir référence](#références)
   - vers 15h00 Visite secrète du Matmut (car ils ne doivent pas dormir avant 21h)
-  - vers 18h00 Visite/Souper : ???
+  - vers 18h00 Visite/Souper : Il y a un resto sur le site pour le repas du soir.
   - vers 21h00 retour au camping [www.yellohvillage.fr](www.yellohvillage.fr) : dodo
 - 8 avril tournoi
   - 2x Match de 50min (2x25)
@@ -101,6 +101,7 @@ Avantages :
   - Soir
 - 11 avril
   - AM Visite du centre
+  - Repas : 
   - PM Match vs Toulouse (L1)<sup>p</sup>
   - Soir
 - 12 avril
@@ -112,10 +113,11 @@ Avantages :
   - PM Match vs Chamois Niortais FC<sup>t</sup>
   - Soir 
 - 14 avril
-  - AM Trajet 1h30
-  - PM Match vs FCM47 (National)<sup>t</sup> 
+  - AM 8h30 départ, trajet 1h30 + mise en forme
+  - Repas : au CLUB
+  - PM 15h30 Match vs FCM47 (National)<sup>t</sup>
   - Backup --> Pau<sup>t</sup> ou Clermont FC<sup>t</sup>
-  - Soir 
+  - Soir : Repas resto du village
 - 15 avril retour
   - transport vers aéroport de Bordeaux
 
