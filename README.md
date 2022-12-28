@@ -14,7 +14,7 @@ Budget repas :
  - Matin : 5€
  - Midi : 20€
  - Soir : 25€
- - Il y a des cuisines au village et la possibilité de faire des repas.
+ - Il y a des cuisines et BBQ dans les cabines du village et la possibilité de faire des repas.
 
 ### Prochain livrables (milestone)
 
