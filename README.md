@@ -97,23 +97,24 @@ Avantages :
   - 2x Match de 50min (2x25)
 - 10 avril
   - AM 
-  - PM Match vs ???
+  - PM Match vs Mérignacais (U17 National)
   - Soir
 - 11 avril
   - AM Visite du centre
-  - PM Match vs Toulouse<sup>p</sup>
+  - PM Match vs Toulouse (L1)<sup>p</sup>
   - Soir
 - 12 avril
   - AM Visite du centre
-  - PM Match vs Girondins<sup>p</sup>
+  - PM Match vs Girondins (L2)<sup>p</sup>
   - Soir
 - 13 avril
   - AM Visite du centre
-  - PM Match vs Clermont FC<sup>t</sup> ou Chamois Niortais FC<sup>t</sup>
+  - PM Match vs Chamois Niortais FC<sup>t</sup>
   - Soir 
 - 14 avril
-  - AM 
-  - PM Match vs FCMI<sup>t</sup> ou Pau<sup>t</sup> ou ???
+  - AM Trajet 1h30
+  - PM Match vs FCM47 (National)<sup>t</sup> 
+  - Backup --> Pau<sup>t</sup> ou Clermont FC<sup>t</sup>
   - Soir 
 - 15 avril retour
   - transport vers aéroport de Bordeaux
