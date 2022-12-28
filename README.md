@@ -101,7 +101,7 @@ Avantages :
   - Soir
 - 11 avril
   - AM Visite du centre
-  - Repas : 
+  - Repas : au centre de formation
   - PM Match vs Toulouse (L1)<sup>p</sup>
   - Soir
 - 12 avril
@@ -110,6 +110,7 @@ Avantages :
   - Soir
 - 13 avril
   - AM Visite du centre
+  - Repas : au centre de formation
   - PM Match vs Chamois Niortais FC<sup>t</sup>
   - Soir 
 - 14 avril
