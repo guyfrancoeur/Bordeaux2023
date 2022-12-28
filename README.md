@@ -90,11 +90,11 @@ Avantages :
 - plus de flexibilité pour les activités.
 
 - 6 avril départ
-  - vers 21h00 à Dorval [voir référence](#références)
+  - départ ±17h00 à Dorval [voir référence](#références)
 - 7 avril arrivé
-  - vers 05h00 à Paris [voir référence](#références)
-  - vers 09h30 à Bordeaux [voir référence](#références)
-  - vers 10h30 : checkin dans les cabines [www.yellohvillage.fr](www.yellohvillage.fr)
+  - vers ±05h00 à Paris [voir référence](#références)
+  - vers ±09h30 à Bordeaux [voir référence](#références)
+  - vers ±10h30 : checkin dans les cabines [www.yellohvillage.fr](www.yellohvillage.fr)
   - Repas midi : au village
   - PM : Visite secrète du Matmut (car ils ne doivent pas dormir avant 21h)
   - Soir Souper : Il y a un resto sur le site pour le repas du soir
