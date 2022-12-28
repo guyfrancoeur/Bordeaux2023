@@ -190,7 +190,7 @@ voici le tableau en 2022 : https://fcmi-club.fr/bordeaux-ocean-cup-2022/
 
 Joueur | Confirmé | Parents | Passeport | Lettre | Questions
 :--- | :---: | :---: | :---: | :---: | :---
-Emile | Oui |        | | |
+Emile | Oui B |        | | |
 Aghilas | Oui |  | | |
 Yacoub | Oui |   | | |
 Ewen | Oui | 1 | | |
