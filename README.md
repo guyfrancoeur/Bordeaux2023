@@ -10,6 +10,12 @@ Pour s'y retrouver : [carte du projet](https://www.google.com/maps/d/u/0/edit?mi
 
 Météo à Bordeaux : [météo AVRIL 2022](https://www.historique-meteo.net/france/aquitaine/bordeaux/2022/04/)
 
+Budget repas :
+ - Matin : 5€
+ - Midi : 20€
+ - Soir : 25€
+ - Il y a des cuisines au village et la possibilité de faire des repas.
+
 ### Prochain livrables (milestone)
 
 Janvier 2023
@@ -86,42 +92,52 @@ Avantages :
 - 6 avril départ
   - vers 21h00 à Dorval [voir référence](#références)
 - 7 avril arrivé
-  - vers 10h30 à Paris [voir référence](#références)
-  - vers 14h00 à Bordeaux [voir référence](#références)
-  - vers 15h00 Visite secrète du Matmut (car ils ne doivent pas dormir avant 21h)
-  - vers 18h00 Visite/Souper : Il y a un resto sur le site pour le repas du soir.
-  - vers 21h00 retour au camping [www.yellohvillage.fr](www.yellohvillage.fr) : dodo
+  - vers 05h00 à Paris [voir référence](#références)
+  - vers 09h30 à Bordeaux [voir référence](#références)
+  - vers 10h30 : checkin dans les cabines [www.yellohvillage.fr](www.yellohvillage.fr)
+  - Repas midi : au village
+  - PM : Visite secrète du Matmut (car ils ne doivent pas dormir avant 21h)
+  - Soir Souper : Il y a un resto sur le site pour le repas du soir
+  - Après souper : explication du séjour, directives et rafraichissement de l'attitude à avoir.
+  - Apres après : parlons soccer
+  - vers 21h00 : dodo
 - 8 avril tournoi
+  - vers 7h00 : petit déjeuner dans les cabines
   - 2x Match de 50min (2x25)
 - 9 avril tournoi
+  - vers 7h00 : petit déjeuner dans les cabines
   - 2x Match de 50min (2x25)
 - 10 avril
+  - Trajet :
   - AM 
-  - PM Match vs Mérignacais (U17 National)
-  - Soir
+  - PM Match vs Mérignacais (U17 National)<sup>p</sup>
+  - Soir : Repas resto du village
 - 11 avril
+  - Trajet :
   - AM Visite du centre
   - Repas : au centre de formation
   - PM Match vs Toulouse (L1)<sup>p</sup>
-  - Soir
+  - Soir : Repas resto du village
 - 12 avril
+  - Trajet : 
   - AM Visite du centre
   - PM Match vs Girondins (L2)<sup>p</sup>
-  - Soir
+  - Soir : Repas resto du village
 - 13 avril
   - AM Visite du centre
   - Repas : au centre de formation
-  - PM Match vs Chamois Niortais FC<sup>t</sup>
-  - Soir 
+  - PM Match vs Chamois Niortais FC<sup>p</sup>
+  - Soir : Repas resto du village
 - 14 avril
+  - Trajet : 
   - AM 8h30 départ, trajet 1h30 + mise en forme
   - Repas : au CLUB
   - PM 15h30 Match vs FCM47 (National)<sup>t</sup>
-  - Backup --> Pau<sup>t</sup> ou Clermont FC<sup>t</sup>
   - Soir : Repas resto du village
 - 15 avril retour
   - transport vers aéroport de Bordeaux
 
+- Backup --> Pau (L2) ou Clermont FC (L1)
 
 #### Extrait de la présentation (une proposition / ébauche)
 
