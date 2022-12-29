@@ -130,7 +130,7 @@ Avantages :
   - Soir : Repas resto du village
 - 14 avril
   - Trajet : 
-  - AM 8h30 départ, trajet 1h30 + mise en forme
+  - AM 8h30 départ, trajet 1h30 + mise en forme [map](https://www.google.ca/maps/dir/Yelloh!+Village+Camping+Bordeaux+Lac,+Bd+Jacques+Chaban-Delmas,+33520+Bruges,+France/68+Rue+Michel+de+Montaigne,+47200+Marmande,+France/@44.6640106,-0.5433212,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd5529b7feddf85f:0x6ea39e9257a69f49!2m2!1d-0.5827695!2d44.8977963!1m5!1m1!1s0x12aa8f8010d3d92f:0xb0e8ed7f01d0b724!2m2!1d0.1503589!2d44.5131261!3e0)
   - Repas : au CLUB
   - PM 15h30 Match vs FCM47 (National)<sup>t</sup>
   - Soir : Repas resto du village
@@ -205,11 +205,11 @@ Cheick | Oui |   | | |
 Liam | Oui |  | | |
 Ilyan | Oui |  | | |
 Elliot | Oui B |  |  |  |
-Kristopher | Oui |  |   |  |
+Kristopher | Oui B |  |   |  |
 Otoniel | Oui B |  | |  |
 Théo | Oui | 1 | |  |
 Daniel | Oui | |  |  |
-Isaak | Oui | 1 |  |  |
+Isaak | Oui B | 1 |  |  |
    |  |   |  |  | 
 Kevin | Coach      |       |  |  |
 **Total**   |   **20J+1C**   |  **11**   |  |  |
