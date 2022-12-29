@@ -209,10 +209,10 @@ Kristopher | Oui |  |   |  |
 Otoniel | Oui B |  | |  |
 Théo | Oui | 1 | |  |
 Daniel | Oui | |  |  |
-Isaak | Oui | |  |  |
+Isaak | Oui | 1 |  |  |
    |  |   |  |  | 
 Kevin | Coach      |       |  |  |
-**Total**   |   **20J+1C**   |  **9 ou 10**   |  |  |
+**Total**   |   **20J+1C**   |  **11**   |  |  |
 
 - `Passeport` nombre d'année.mois restant après le 16 avril 2023;
 - <sup>1</sup> Question;
@@ -287,7 +287,6 @@ Les fonds vont a ceux qui participent.
      - William
      - Luca
      - Isaak
-     - Joachim
      - Daniel
      - Théo
      - Liam
