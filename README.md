@@ -10,7 +10,7 @@ Pour s'y retrouver : [carte du projet](https://www.google.com/maps/d/u/0/edit?mi
 
 Météo à Bordeaux : [météo AVRIL 2022](https://www.historique-meteo.net/france/aquitaine/bordeaux/2022/04/)
 
-Budget repas :
+Budget repas : 60€ jour x 14
  - Matin : 5€
  - Midi : 20€
  - Soir : 25€
@@ -21,7 +21,7 @@ Budget repas :
 Janvier 2023
 | Sun               | Mon               | Tue               | Wed               | Thu               | Fri               | Sat               |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| [1](#2023-01-01)  | [2](#2023-01-02)  | [3](#2023-01-03)  | [4](#2023-01-04)  | ⍟[5](#2023-01-05)  | ⍟[6](#2023-01-06)  | [7](#2023-01-07)  |
+| [1](#2023-01-01)  | [2](#2023-01-02)  | [3](#2023-01-03)  | [4](#2023-01-04)  | ⍟[5](#2023-01-05)  | ⍟[6](#2023-01-06)  | ️⚽️[7](#2023-01-07)  |
 | [8](#2023-01-08)  | [9](#2023-01-09)  | [10](#2023-01-10) | [11](#2023-01-11) | ⍟[12](#2023-01-12) | ⍟[13](#2023-01-13) | [14](#2023-01-14) |
 | [15](#2023-01-15) | [16](#2023-01-16) | [17](#2023-01-17) | [18](#2023-01-18) | €[19](#2023-01-19) | [20](#2023-01-20) | [21](#2023-01-21) |
 | [22](#2023-01-22) | [23](#2023-01-23) | [24](#2023-01-24) | [25](#2023-01-25) | ⍟[26](#2023-01-26) | [27](#2023-01-27) | [28](#2023-01-28) |
@@ -53,6 +53,9 @@ demande de report du paiment au 19 janvier 2023
 
 #### 2023-01-06
 création du compte bancaire
+
+#### 2023-01-07
+rencontre avec parents avant le match
 
 #### 2023-01-12
 **lettre de consentement de voyage** [ici](https://voyage.gc.ca/voyager/enfant/lettre-de-consentement)
@@ -104,6 +107,7 @@ Avantages :
 - 8 avril tournoi
   - vers 7h00 : petit déjeuner dans les cabines
   - 2x Match de 50min (2x25)
+  - Surprise : aller voir le match des Girondins vs FC Bastia au Matmut
 - 9 avril tournoi
   - vers 7h00 : petit déjeuner dans les cabines
   - 2x Match de 50min (2x25)
@@ -124,9 +128,9 @@ Avantages :
   - PM Match vs Girondins (L2)<sup>p</sup>
   - Soir : Repas resto du village
 - 13 avril
-  - AM Visite du centre
+  - AM Visite du centre [team](https://www.chamoisniortais.fr/)
   - Repas : au centre de formation
-  - PM Match vs Chamois Niortais FC<sup>p</sup>
+  - PM Match vs Chamois Niortais FC (L2)<sup>p</sup> 
   - Soir : Repas resto du village
 - 14 avril
   - Trajet : 
@@ -196,14 +200,14 @@ Yacoub | Oui |   | | |
 Ewen | Oui B | 1 | | |
 Yohan | Oui B | 1<sup>4</sup> | 4a.7m | |
 Vinh | Oui B | 2 | 4a.6m | |
-Sami | Oui | 1 | 4a.2m| |
-Joachim | Oui | 2 | 4a.11m | |
+Sami | Oui B | 1 | 4a.2m| |
+Joachim | Oui B | 2 | 4a.11m | |
 William | Oui B |   | | |
 Caleb | Oui | 1 ou 2 | | |
 Luca | Oui |  | |  |
 Cheick | Oui |   | | |
-Liam | Oui |  | | |
-Ilyan | Oui |  | | |
+Liam | Oui B |  | | |
+Ilyan | Oui B |  | | |
 Elliot | Oui B |  |  |  |
 Kristopher | Oui B |  |   |  |
 Otoniel | Oui B |  | |  |
@@ -254,7 +258,8 @@ Les fonds vont a ceux qui participent.
      - Elliot (avec pot)
    - Pot du style lingettes Lysol idéal pour le format et le branding.
 
- - Jeudi 29 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
+ - Jeudi 29 décembre 2022 (Adonis Montréal) : 640$
+   - 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
    - minimum de **`6`** personnes pour que l'événement ait lieu
    - avoir les chandails jaunes de match (obligatoire)
@@ -264,12 +269,10 @@ Les fonds vont a ceux qui participent.
      - Kris
      - Yohan
      - Emile
-     - Aghilas
      - Yacoub
      - Otoniel
      - Vinh
      - Luca
-     - Joachim
      - Daniel
 
  - Vendredi 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
@@ -279,7 +282,6 @@ Les fonds vont a ceux qui participent.
    - avoir une attitude irréprochable et une politesse exemplaire
      - vous avez la responsabilité de passer le message à vos enfants
    - 11h00 @ 16h00 (5h) complet à 10
-     - Kris
      - Cheick
      - Yacoub
      - Otoniel
