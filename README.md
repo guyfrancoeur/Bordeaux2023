@@ -11,9 +11,9 @@ Outre le sport il y a d'autres facteurs qui sont importants avant la tenu de ce 
 🌞 Météo à Bordeaux : [météo AVRIL 2022](https://www.historique-meteo.net/france/aquitaine/bordeaux/2022/04/)
 
 Budget repas : 45€ jour x 14
- - Matin : 5€
- - Midi : 17€
- - Soir : 23€
+ - Matin : ±5€
+ - Midi : ±17€
+ - Soir : ±23€
  - Il y a des cuisines et BBQ dans les cabines du village vacance et la possibilité de faire des repas.
 
 ### Prochain livrables (milestone)
