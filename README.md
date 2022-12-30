@@ -6,15 +6,15 @@ Si vous avez des questions n'hésitez pas à communiquer avec nous nous allons l
 
 Outre le sport il y a d'autres facteurs qui sont importants avant la tenu de ce projet telque les études, le coût et plein d'autres, donc ne vous sentez pas mal. Si vous avez des inquiétudes nous seront là pour vous et votre enfants.
 
-Pour s'y retrouver : [carte du projet](https://www.google.com/maps/d/u/0/edit?mid=1VdnA9ThqQF8tnUslz9Hj8aTbvQNUm58&usp=sharing)
+🗺 Pour s'y retrouver : [carte du projet](https://www.google.com/maps/d/u/0/edit?mid=1VdnA9ThqQF8tnUslz9Hj8aTbvQNUm58&usp=sharing)
 
-Météo à Bordeaux : [météo AVRIL 2022](https://www.historique-meteo.net/france/aquitaine/bordeaux/2022/04/)
+🌞 Météo à Bordeaux : [météo AVRIL 2022](https://www.historique-meteo.net/france/aquitaine/bordeaux/2022/04/)
 
-Budget repas : 60€ jour x 14
+Budget repas : 45€ jour x 14
  - Matin : 5€
- - Midi : 20€
- - Soir : 25€
- - Il y a des cuisines et BBQ dans les cabines du village et la possibilité de faire des repas.
+ - Midi : 17€
+ - Soir : 23€
+ - Il y a des cuisines et BBQ dans les cabines du village vacance et la possibilité de faire des repas.
 
 ### Prochain livrables (milestone)
 
