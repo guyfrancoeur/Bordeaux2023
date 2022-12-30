@@ -10,7 +10,7 @@ Outre le sport il y a d'autres facteurs qui sont importants avant la tenu de ce 
 
 🌞 Météo à Bordeaux : [météo AVRIL 2022](https://www.historique-meteo.net/france/aquitaine/bordeaux/2022/04/)
 
-Budget repas : 45€ jour x 14
+Budget repas : 45€ jour x 8 ~ 360€ (+2x20€) = 400€ (600$)
  - Matin : ±5€
  - Midi : ±17€
  - Soir : ±23€
