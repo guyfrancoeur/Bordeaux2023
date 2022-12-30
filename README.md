@@ -128,20 +128,20 @@ Avantages :
   - Trajet :
   - AM 
   - PM Match vs Mérignacais (U17 National)<sup>p</sup>
-  - Soir : Repas resto du village
+  - Soir : Repas resto du village vacance
 
 #### 2023-04-11
-  - Trajet :
+  - Trajet : [map](https://www.google.ca/maps/dir/Yelloh!+Village+Camping+Bordeaux+Lac,+Bd+Jacques+Chaban-Delmas,+33520+Bruges,+France/Stadium+TFC,+All%C3%A9e+Gabriel+Bi%C3%A9n%C3%A8s,+Toulouse,+France/@44.2328105,-0.1782353,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd5529b7feddf85f:0x6ea39e9257a69f49!2m2!1d-0.5827695!2d44.8977963!1m5!1m1!1s0x12aebb8442a6d3ad:0x258ae94747bde3cd!2m2!1d1.434048!2d43.5832972!3e0)
   - AM Visite du centre
   - Repas : au centre de formation
-  - PM Match vs Toulouse (L1)<sup>p</sup>
-  - Soir : Repas resto du village
+  - PM Match vs Toulouse (L1)<sup>p</sup> [team](https://toulousefc.com/fr/saison/u17/2022)
+  - Soir : Repas resto du village vacance
 
 #### 2023-04-12
   - Trajet : 
   - AM Visite du centre
   - PM Match vs Girondins (L2)<sup>p</sup>
-  - Soir : Repas resto du village
+  - Soir : Repas resto du village vacance
 
 #### 2023-04-13
   - AM Visite du centre [team](https://www.chamoisniortais.fr/)
