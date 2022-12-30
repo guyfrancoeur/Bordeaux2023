@@ -21,17 +21,17 @@ Budget repas : 60€ jour x 14
 Janvier 2023
 | Sun               | Mon               | Tue               | Wed               | Thu               | Fri               | Sat               |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| [1](#2023-01-01)  | [2](#2023-01-02)  | [3](#2023-01-03)  | [4](#2023-01-04)  | ⍟[5](#2023-01-05)  | ⍟€[6](#2023-01-06)  | ️⚽️[7](#2023-01-07)  |
-| [8](#2023-01-08)  | [9](#2023-01-09)  | [10](#2023-01-10) | [11](#2023-01-11) | ⍟[12](#2023-01-12) | ⍟[13](#2023-01-13) | [14](#2023-01-14) |
-| [15](#2023-01-15) | [16](#2023-01-16) | [17](#2023-01-17) | [18](#2023-01-18) | €[19](#2023-01-19) | [20](#2023-01-20) | [21](#2023-01-21) |
-| [22](#2023-01-22) | [23](#2023-01-23) | [24](#2023-01-24) | [25](#2023-01-25) | ⍟[26](#2023-01-26) | [27](#2023-01-27) | [28](#2023-01-28) |
+| [1](#2023-01-01)  | [2](#2023-01-02)  | [3](#2023-01-03)  | [4](#2023-01-04)  | ⍟ [5](#2023-01-05)  | ⍟€ [6](#2023-01-06)  | ️⚽️ [7](#2023-01-07)  |
+| [8](#2023-01-08)  | [9](#2023-01-09)  | [10](#2023-01-10) | [11](#2023-01-11) | ⍟ [12](#2023-01-12) | ⍟ [13](#2023-01-13) | [14](#2023-01-14) |
+| [15](#2023-01-15) | [16](#2023-01-16) | [17](#2023-01-17) | [18](#2023-01-18) | € [19](#2023-01-19) | [20](#2023-01-20) | [21](#2023-01-21) |
+| [22](#2023-01-22) | [23](#2023-01-23) | [24](#2023-01-24) | [25](#2023-01-25) | ⍟ [26](#2023-01-26) | [27](#2023-01-27) | [28](#2023-01-28) |
 | [29](#2023-01-29) | [30](#2023-01-30) | [31](#2023-01-31) |                   |                   |                   |                   |
 
 Février 2023
 | Sun               | Mon               | Tue               | Wed               | Thu               | Fri               | Sat               |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 |                   |                   |                   | [1](#2023-02-01)  | [2](#2023-02-02)  | [3](#2023-02-03)  | [4](#2023-02-04)  |
-| [5](#2023-02-05)  | €[6](#2023-02-06)  | [7](#2023-02-07)  | [8](#2023-02-08)  | [9](#2023-02-09)  | [10](#2023-02-10) | [11](#2023-02-11) |
+| [5](#2023-02-05)  | € [6](#2023-02-06)  | [7](#2023-02-07)  | [8](#2023-02-08)  | [9](#2023-02-09)  | [10](#2023-02-10) | [11](#2023-02-11) |
 | [12](#2023-02-12) | [13](#2023-02-13) | [14](#2023-02-14) | [15](#2023-02-15) | [16](#2023-02-16) | [17](#2023-02-17) | [18](#2023-02-18) |
 | [19](#2023-02-19) | [20](#2023-02-20) | [21](#2023-02-21) | [22](#2023-02-22) | [23](#2023-02-23) | [24](#2023-02-24) | [25](#2023-02-25) |
 | [26](#2023-02-26) | [27](#2023-02-27) | [28](#2023-02-28) |                   |                   |                   |                   |
@@ -40,7 +40,7 @@ Marc 2023
 | Sun               | Mon               | Tue               | Wed               | Thu               | Fri               | Sat               |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 |                   |                   |                   | [1](#2023-03-01)  | [2](#2023-03-02)  | [3](#2023-03-03)  | [4](#2023-03-04)  |
-| [5](#2023-03-05)  | €[6](#2023-03-06)  | [7](#2023-03-07)  | [8](#2023-03-08)  | [9](#2023-03-09)  | [10](#2023-03-10) | [11](#2023-03-11) |
+| [5](#2023-03-05)  | € [6](#2023-03-06)  | [7](#2023-03-07)  | [8](#2023-03-08)  | [9](#2023-03-09)  | [10](#2023-03-10) | [11](#2023-03-11) |
 | [12](#2023-03-12) | [13](#2023-03-13) | [14](#2023-03-14) | [15](#2023-03-15) | [16](#2023-03-16) | [17](#2023-03-17) | [18](#2023-03-18) |
 | [19](#2023-03-19) | [20](#2023-03-20) | [21](#2023-03-21) | [22](#2023-03-22) | [23](#2023-03-23) | [24](#2023-03-24) | [25](#2023-03-25) |
 | [26](#2023-03-26) | [27](#2023-03-27) | [28](#2023-03-28) | [29](#2023-03-29) | [30](#2023-03-30) | [31](#2023-03-31) |                   |
@@ -49,8 +49,8 @@ Avril 2023
 | Mon             | Tue             | Wed             | Thu             | Fri             | Sat             | Sun             |
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 |                 |                 |                 |                 |                 | [1](#20230401)  | [2](#20230402)  |
-| [3](#20230403)  | [4](#20230404)  | [5](#20230405)  | 🛫[6](#20230406)  | 🛬[7](#20230407)  | 🏆[8](#20230408)  | 🏆[9](#20230409)  |
-| ️⚽️[10](#20230410) | ️⚽️[11](#20230411) | ️⚽️[12](#20230412) | ️⚽️[13](#20230413) | ️⚽️[14](#20230414) | 🛫🛬[15](#20230415) | [16](#20230416) |
+| [3](#20230403)  | [4](#20230404)  | [5](#20230405)  | 🛫 [6](#20230406)  | 🛬 [7](#20230407)  | 🏆 [8](#20230408)  | 🏆 [9](#20230409)  |
+| ️⚽️ [10](#20230410) | ️⚽️ [11](#20230411) | ️⚽️ [12](#20230412) | ️⚽️ [13](#20230413) | ️⚽️ [14](#20230414) | 🛫🛬 [15](#20230415) | [16](#20230416) |
 | [17](#20230417) | [18](#20230418) | [19](#20230419) | [20](#20230420) | [21](#20230421) | [22](#20230422) | [23](#20230423) |
 | [24](#20230424) | [25](#20230425) | [26](#20230426) | [27](#20230427) | [28](#20230428) | [29](#20230429) | [30](#20230430) |
 
@@ -88,67 +88,76 @@ rencontre avec parents avant le match
 #### 2023-03-06
 **Paiement finale du devis d'hébergement** 30% en Euros
 
-## Horraire du séjour 
+## Horraire du séjour
  
  **Proposition B (nouveau)**
  
 Les vacances en France sont du 10 au 15 avril 2023 
 Avantages :
+- focus sur le soccer;
 - possible de faire plus de matchs (5 au lieu de 2);
-- disponibilité des équipes;
-- plus de flexibilité pour les heures des matchs (matin ou en pm au lieu du soir apres 17h);
-- plus de flexibilité pour les activités.
+- plus de flexibilité 
+  - et disponibilité des équipes;
+  - pour les heures des matchs (matin ou en pm au lieu du soir apres 17h);
+  - pour les activités.
 
-- 6 avril départ
+#### 2023-04-06
   - départ ±17h00 à Dorval [voir référence](#références)
-- 7 avril arrivé
+  - 
+#### 2023-04-07
   - vers ±05h00 à Paris [voir référence](#références)
   - vers ±09h30 à Bordeaux [voir référence](#références)
   - vers ±10h30 : checkin dans les cabines [www.yellohvillage.fr](www.yellohvillage.fr)
   - Repas midi : au village
   - PM : Visite secrète du Matmut (car ils ne doivent pas dormir avant 21h)
-  - Soir Souper : Il y a un resto sur le site pour le repas du soir
-  - Après souper : explication du séjour, directives et rafraichissement de l'attitude à avoir.
-  - Apres après : parlons soccer
+  - Soir repas : Il y a un resto sur le site pour le repas du soir
+  - Après repas : explication du séjour, directives et rafraichissement de l'attitude à avoir.
+  - Apres après repas : parlons soccer
   - vers 21h00 : dodo
-- 8 avril tournoi
+
+#### 2023-04-08
   - vers 7h00 : petit déjeuner dans les cabines
-  - 2x Match de 50min (2x25)
+  - 2x Match de 50min (2x25) en 2022 --> https://fcmi-club.fr/bordeaux-ocean-cup-2022/
   - Surprise : aller voir le match des Girondins vs FC Bastia au Matmut
-- 9 avril tournoi
+
+#### 2023-04-09
   - vers 7h00 : petit déjeuner dans les cabines
-  - 2x Match de 50min (2x25)
-- 10 avril
+  - 2x Match de 50min (2x25) en 2022 --> https://fcmi-club.fr/bordeaux-ocean-cup-2022/
+
+#### 2023-04-10
   - Trajet :
   - AM 
   - PM Match vs Mérignacais (U17 National)<sup>p</sup>
   - Soir : Repas resto du village
-- 11 avril
+
+#### 2023-04-11
   - Trajet :
   - AM Visite du centre
   - Repas : au centre de formation
   - PM Match vs Toulouse (L1)<sup>p</sup>
   - Soir : Repas resto du village
-- 12 avril
+
+#### 2023-04-12
   - Trajet : 
   - AM Visite du centre
   - PM Match vs Girondins (L2)<sup>p</sup>
   - Soir : Repas resto du village
-- 13 avril
+
+#### 2023-04-13
   - AM Visite du centre [team](https://www.chamoisniortais.fr/)
   - Repas : au centre de formation
   - PM Match vs Chamois Niortais FC (L2)<sup>p</sup> 
   - Soir : Repas resto du village
-- 14 avril
+
+#### 2023-04-14
   - Trajet : 
   - AM 8h30 départ, trajet 1h30 + mise en forme [map](https://www.google.ca/maps/dir/Yelloh!+Village+Camping+Bordeaux+Lac,+Bd+Jacques+Chaban-Delmas,+33520+Bruges,+France/68+Rue+Michel+de+Montaigne,+47200+Marmande,+France/@44.6640106,-0.5433212,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd5529b7feddf85f:0x6ea39e9257a69f49!2m2!1d-0.5827695!2d44.8977963!1m5!1m1!1s0x12aa8f8010d3d92f:0xb0e8ed7f01d0b724!2m2!1d0.1503589!2d44.5131261!3e0)
   - Repas : au CLUB
   - PM 15h30 Match vs FCM47 (National)<sup>t</sup>
   - Soir : Repas resto du village
-- 15 avril retour
-  - transport vers aéroport de Bordeaux
 
-- Backup --> Pau (L2) ou Clermont FC (L1)
+#### 2023-04-15
+  - transport vers aéroport de Bordeaux, retour vers Montréal
 
 #### Extrait de la présentation (une proposition / ébauche)
 
