@@ -16,4 +16,8 @@ Outre le sport, il y a d'autres facteurs qui sont importants avant la tenu de ce
 - [horaire du projet B](./horaire.md) : ici est le planing du projet.
 - [levées de fonds](./fonds.md) : ici vous trouverez les informations et les resultats des levées de fonds.
 - [budgets](./budget.md) : ici vous trouverez des informations sur les couts protentiel.
--
+- [requis](./requis.md) : les requis pour realiser le projet.
+- [questions](./questions.md) : les questions & réponses à ce jour.
+
+---
+par GF pour CSL 2007M PLSJQ
