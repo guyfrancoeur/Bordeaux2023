@@ -12,6 +12,7 @@ Outre le sport, il y a d'autres facteurs qui sont importants avant la tenu de ce
 
 ### Index
 
+- [participant](./participant.md)
 - [horaire](./horaire.md)
 - [levées de fonds](./fonds.md)
 - [budgets](./budget.md)
