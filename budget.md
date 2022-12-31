@@ -25,7 +25,7 @@
   - Air France détail du vol
     - ![detail-yul-cdg-bod](./vol-yul-bod.png)
 
-  - Air France via AMS (1300$)
+  - Air France via AMS
     - ![af-yul-ams-bod](./af-yul-ams-bod.png)
 
   - Delta (~883$ lorsque vérifier) --> delta revend Air France
