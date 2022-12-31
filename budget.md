@@ -20,12 +20,15 @@
     - [occupation 5/6](https://www.yellohvillage.fr/camping/bordeaux_lac/nos_locations/75474#content)
 
 - Avion
-  - Air France
-    - ![af-yul-bod](./af-yul-bod.png)
+  - Air France via CDG (927$ - 947$)
+    - ![af-yul-cdg-bod](./af-yul-bod.png)
   - Air France détail du vol
-    - ![vol-yul-bod](./vol-yul-bod.png)
+    - ![detail-yul-cdg-bod](./vol-yul-bod.png)
 
-  - Delta (~888$ lorsque vérifier) --> delta revend Air France
+  - Air France via AMS (1300$)
+    - ![af-yul-ams-bod](./af-yul-ams-bod.png)
+
+  - Delta (~883$ lorsque vérifier) --> delta revend Air France
     - ![delta-yul-bod](./delta-yul-bod.png)
 
 ---
