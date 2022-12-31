@@ -1,5 +1,7 @@
 # Participants
 
+[menu principal](./readme.md)
+
 Joueur | Confirmé | Parents | Passeport | Lettre | Questions
 :--- | :---: | :---: | :---: | :---: | :---
 Emile | Oui B |        | | |
