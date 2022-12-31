@@ -1,4 +1,4 @@
-# Levée de fonds (facultatif)
+# Levées de fonds (facultatif)
 
 [menu principal](./readme.md)
 
