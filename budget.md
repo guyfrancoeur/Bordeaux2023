@@ -20,7 +20,7 @@
     - [occupation 5/6](https://www.yellohvillage.fr/camping/bordeaux_lac/nos_locations/75474#content)
 
 - Avion
-  - Air France via CDG (927$ - 947$)
+  - Air France via CDG (927$ - 942$)
     - ![af-yul-cdg-bod](./af-yul-bod.png)
   - Air France détail du vol
     - ![detail-yul-cdg-bod](./vol-yul-bod.png)
