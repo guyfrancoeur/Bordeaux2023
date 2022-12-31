@@ -9,15 +9,15 @@
   - Il y a des cuisines et BBQ dans les cabines du village vacance et la possibilité de faire des repas.
 
 - Déplacement (autocar)
-  - 40 places
-    - [1](https://www.cars-de-france.com/tarifs-location-autocar/)
-    - [2](https://www.location-bus.fr/)
-    - [3](https://locationminibus.fr/)
+  - jusqu'à 59 places
+    - [choix 1](https://www.cars-de-france.com/tarifs-location-autocar/)
+    - [choix 2](https://www.location-bus.fr/)
+    - [choix 3](https://locationminibus.fr/)
 
 - Hébergement
   - yelloh village 
-    - 4 enfants + 1 couple ou 1 adulte
-    - [occupation 5](https://www.yellohvillage.fr/camping/bordeaux_lac/nos_locations/75474#content)
+    - 4 enfants + 1 couple ou 1 adulte (5 ou 6 personnes)
+    - [occupation 5/6](https://www.yellohvillage.fr/camping/bordeaux_lac/nos_locations/75474#content)
 
 - Avion
   - Air France
