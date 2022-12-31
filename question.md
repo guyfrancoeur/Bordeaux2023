@@ -2,6 +2,8 @@
 
 Voici mon planning avec **`OceanCup`** pour les prochains jours
 
+[menu principal](readme.md)
+
 - Communications 
   - Jeudi 15 décembre 10h45 ZOOM
   - Jeudi 22 décembre via courriel
