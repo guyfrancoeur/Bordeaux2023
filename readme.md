@@ -14,6 +14,6 @@ Outre le sport, il y a d'autres facteurs qui sont importants avant la tenu de ce
 
 - [horaire](./horaire.md)
 - [levées de fonds](./fonds.md)
+- [budgets](./budget.md)
 - 
-- [projet A 3 avril au 10 avril](./projetA.md)
-- 
+- [projet A -> 3 avril au 10 avril](./projetA.md)
