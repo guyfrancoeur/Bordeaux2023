@@ -1,6 +1,8 @@
 # Levée de fonds (facultatif)
 
-Les fonds vont à ceux qui participent.
+[menu principal](./readme.md)
+
+**Les fonds sont attribués à ceux qui participent à l'événement.**
 
 - Dimanche 11 Décembre 2022 : 1122$
   - 10h @ 12h : 454$
