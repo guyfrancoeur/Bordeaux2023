@@ -273,7 +273,7 @@ Les fonds vont a ceux qui participent.
      - Daniel
      - Elliot
 
- - Jeudi 29 décembre 2022 (Adonis Montréal) : 691$ moins le don centraide --> 640$
+ - Jeudi 29 décembre 2022 (Adonis Montréal) : 691$ moins le don centraide (20$) --> 671$
    - 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
    - minimum de **`6`** personnes pour que l'événement ait lieu
@@ -290,7 +290,8 @@ Les fonds vont a ceux qui participent.
      - Luca
      - Daniel
 
- - Vendredi 30 décembre 2022 (Adonis Montréal) 2001 Rue Sauvé Ouest, Montréal
+ - Vendredi 30 décembre 2022 (Adonis Montréal) 931$ moins le don centraide (31$) --> 900$
+   - 2001 Rue Sauvé Ouest, Montréal
    - nous devons avoir du monde pendant 5h
    - minimum de **`6`** personnes pour que l'événement ait lieu
    - avoir les chandails jaunes de match (obligatoire)
@@ -301,7 +302,6 @@ Les fonds vont a ceux qui participent.
      - Yacoub
      - Otoniel
      - Vinh
-     - William
      - Luca
      - Isaak
      - Daniel
@@ -312,13 +312,13 @@ Les fonds vont a ceux qui participent.
 
 1.	**Nous devons acheter des EUROS, svp garder l'oeil ouvert quand c'est bas, appeler moi.**
     1. Besoin d'une place pour échanger de l'argent.
-2.	Il y a trois paiements pour l’aspect hébergement (580$EU --> ~841$CDN)
+2.	Il y a trois paiements pour l’aspect hébergement+repas+déplacement (environ ~600$EU --> ~900$CDN)
     1. Le prix inclus le cout pour deux coachs
     2.	Le prix sera revu/calculé, devis en cours de production
 3.	Pour les billets d’avion :
-    1.	Je vais faire une demande pour un prix de groupe (~900$CDN moins les rabais)
+    1.	Je vais faire une demande pour un prix de groupe (~900$CDN moins les rabais so possible)
     2.	Deux compagnies / agences seront contacter (je vous reviens en janvier)
-    3.	Indiquez moi si vous avez un intérêt d’aller en France (facultatif)
+    3.	Parents indiquez moi si vous avez un intérêt d’aller en France (facultatif)
 4.	Demande de fond de groupe :
     1.	Nous allons tenter de contacter des agences (ville, député, ministre, entreprises) pour trouver des fonds;
     2.	Un volontaire est nécessaire.
@@ -401,6 +401,8 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours
 - avec Air France (2)
 ![vol-yul-bod](./vol-yul-bod.png)
 ![af-yul-bod](./af-yul-bod.png)
+- Delta
+![delta-yul-bod](./delta-yul-bod.png)
 - avec British Airways (pas bon, long)
 - avec Air Canada (à venir)
 - avec Corsair (pas disponible)
