@@ -7,7 +7,7 @@
   - Il y a des cuisines et BBQ dans les cabines du village vacance et la possibilité de faire des repas.
 
 - Déplacement (autocar)
-  - 
+  - 40 places
 
 - Hébergement
   - yelloh village
