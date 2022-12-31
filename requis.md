@@ -28,17 +28,19 @@
 
 ### Prochaines étapes (à venir)
  1. Choix du format de la compétition durant le séjour
-    1. Matchs amicaux contre les académies;
-    2. Matchs amicaux et tournoi le week-end.
+    - [x] Matchs amicaux contre les académies;
+    - [x] Matchs amicaux et tournoi le week-end.
  2. Choix du forfait pour les parents
-    1. airb&b en solo ou a plusieurs;
-    2. hotel;
-    3. activités (vignobles, stades, visite (Andora ?, académies ?).
-    4. des dates de retour personnalisées seront tentées avec notre arrangeur de voyage.
-       1. Négociation de groupe pour obtenir un prix.
-       2. Les parents qui voudraient aller en France, vous devez me prévenir.
+    - [ ] airb&b en solo ou a plusieurs;
+    - [x] village vacance
+    - [ ] hotel
+    - [ ] activités vignobles
+    - [x] stades Matmut Girondins
+    - [x] match Girondins
+    - [x] visite académies
+    - [ ] Les parents qui voudraient aller en France, vous devez me prévenir
  3. Mode de paiement, virement, compte bancaire.
-    1. Nous allons bientot avoir besoin de qqc de formel pour suivre nos finances.
+    - [ ] Nous allons bientot avoir besoin de qqc de formel pour suivre nos finances.
  4. Adonis Montreal
      1. Responsable Patricia Claros : 514.264.3027
      2. Confirmer la présence via courriel à Patricia et Guy.
@@ -46,3 +48,4 @@
      1. Papa Sami Talbi : 
 
 
+---
