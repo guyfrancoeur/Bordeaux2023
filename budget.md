@@ -1,5 +1,7 @@
 # Budgets
 
+[menu principal](./readme.md)
+
 - Budget repas : 45€ jour x 8 ~ 360€ (+2x20€) = 400€ (600$)
   - Matin : ±5€
   - Midi : ±17€
@@ -16,3 +18,5 @@
   - Air France
 
   - Delta
+
+---
