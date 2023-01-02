@@ -37,8 +37,12 @@
 `Exemple de vols/couts`
 - avec British Airways (pas bon, long)
 - avec Air Canada (à venir)
+  - ne va pas jusqu'a bordeaux;
+  - nous evons combiner avec air france.
 - avec Corsair (pas disponible)
 - avec transat (à venir)
+  - ne va pas jusqu'a bordeaux;
+  - heure d'arrivé imcompatible.
 
 `Exemple Hébergements`
 - [1](https://www.yellohvillage.fr/camping/search?search_text=Cit%C3%A9+du+vin+Bordeaux&campings_content_ids=75198-2655-2656-5338&poi_id=40049&poi_latlong=44.862285%2C-0.550124&total_count_village=91&date_start=08%2F04%2F2023&date_end=15%2F04%2F2023&hebergement=rental_unit&nb_personnes=1)
