@@ -16,8 +16,9 @@
 
 - Hébergement
   - yelloh village 
-    - 4 enfants + 1 couple ou 1 adulte (5 ou 6 personnes)
+    - 5 ou 6 personnes
     - [occupation 5/6](https://www.yellohvillage.fr/camping/bordeaux_lac/nos_locations/75474#content)
+    - 
 
 - Avion
   - Air France via CDG (927$ - 942$)
@@ -44,7 +45,9 @@
   - ne va pas jusqu'a bordeaux;
   - heure d'arrivé imcompatible.
 
-`Exemple Hébergements`
+`Exemple Hébergements coûts/devis`
+- ![exemple hébergement joueurs](./your-yellohvillage-reservation.pdf)
+
 - [1](https://www.yellohvillage.fr/camping/search?search_text=Cit%C3%A9+du+vin+Bordeaux&campings_content_ids=75198-2655-2656-5338&poi_id=40049&poi_latlong=44.862285%2C-0.550124&total_count_village=91&date_start=08%2F04%2F2023&date_end=15%2F04%2F2023&hebergement=rental_unit&nb_personnes=1)
 
 ---
