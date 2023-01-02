@@ -2,7 +2,7 @@
 
 [menu principal](./readme.md)
 
-Joueur | Confirmé | Parents | Passeport | Lettre | Questions
+Joueur | Confirmé | Adultes | Passeport | Lettre | Questions
 :--- | :---: | :---: | :---: | :---: | :---
 Emile | Oui B |        | | |
 Aghilas | Oui A |  | | |
@@ -24,11 +24,12 @@ Otoniel | Oui B |  | |  |
 Théo | Oui | 1 | 3a.0m |  |
 Daniel | Oui | |  |  |
 Isaak | Oui B | 1 |  |  |
-Karim | Oui** <sup>3</sup> |  |  |  |
+Karim | Oui B |  |  |  |
    |  |   |  |  | 
 Kevin | Coach      |       |  |  |
 **Total**   |   **21J + 1C**   |  **11**   |  |  |
 
+- `Adultes` nombre d'adulte qui acompagne le joueur;
 - `Passeport` nombre d'année.mois restant après le 16 avril 2023;
 - `Lettre` Lettre de concentement de voyage pour mineur; 
 - <sup>1</sup> Question;
