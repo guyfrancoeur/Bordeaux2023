@@ -34,5 +34,5 @@ Kevin | Coach      |       |  |  |
 - `Lettre` Lettre de concentement de voyage pour mineur; 
 - <sup>1</sup> Question;
 - <sup>2</sup> Verbale;
-- <sup>3</sup> Confirmation parentale nécessaire via courrial;
+- <sup>3</sup> Confirmation parentale nécessaire via courriel;
 - <sup>4</sup> Possible.
