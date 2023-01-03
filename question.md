@@ -41,5 +41,8 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours et les questions
       - Le village vacances est un espace réservé donc fermé.
       - Nous avons une assurance qui couvre les blessures durant les activités sportives.
       - Un responsable (oceanCup) sera présent sur le site, car il y aura la majorité des équipes dans le village (Yelloh) afin de s'assurer que tout se passe bien sur le site et que les groupes/équipes ne manquent de rien.
+  - Q. Est ce que les matchs seront filmé ?
+    - Oui filmé;
+    - Nous allons tenter le streaming si nous avons un gorfait mobile qui le permet.
 
 ---
