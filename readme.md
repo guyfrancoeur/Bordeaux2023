@@ -10,7 +10,7 @@ Outre le sport, il y a d'autres facteurs qui sont importants avant la tenu de ce
 
 🌞 Météo à Bordeaux : [météo AVRIL 2022](https://www.historique-meteo.net/france/aquitaine/bordeaux/2022/04/)
 
-Lieu de l'hébergement : https://www.yellohvillage.fr/camping/bordeaux_lac/a_proximite#content
+Lieu de l'hébergement (adresse) : https://www.yellohvillage.fr/camping/bordeaux_lac/a_proximite#content
 
 ### Index
 
