@@ -17,7 +17,7 @@ Lieu de l'hébergement (adresse) : https://www.yellohvillage.fr/camping/bordeaux
 - [participants](./participant.md) : les participants (joueurs et parents).
 - [horaire du projet B](./horaire.md) : ici est le planing du projet.
 - [levées de fonds](./fonds.md) : ici vous trouverez les informations et les resultats des levées de fonds.
-- [budgets](./budget.md) : ici vous trouverez des informations sur les couts protentiel.
+- [budgets](./budget.md) : ici vous trouverez des informations sur les coûts (idées des coûts).
 - [requis](./requis.md) : les requis pour realiser le projet.
 - [questions](./question.md) : les questions & réponses à ce jour.
 
