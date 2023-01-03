@@ -6,8 +6,8 @@ Joueur | Confirmé | Adultes | Passeport | Lettre | Questions
 :--- | :---: | :---: | :---: | :---: | :---
 Emile | Oui B |        | | |
 Aghilas | Oui A |  | | |
-Yacoub | Oui |   | | |
-Ewen | Oui B | 1 | | |
+Yacoub | Oui |   |  |  |
+Ewen | Oui B | 1 |  |  |
 Yohan | Oui B | 1<sup>4</sup> | 4a.7m | |
 Vinh | Oui B | 2 | 4a.6m | Reçu |
 Sami | Oui B | 1 | 4a.2m | |
@@ -19,7 +19,7 @@ Cheick | Oui |   |  | |
 Liam | Oui B |  | | Reçu |
 Ilyan | Oui B |  | | |
 Elliot | Oui B |  |  |  |
-Kristofer | Oui B | 1a.8m |   |  |
+Kristofer | Oui B |  | 1a.8m |  |
 Otoniel | Oui B |  | |  |
 Théo | Oui | 1 | 3a.0m |  |
 Daniel | Oui | |  |  |
