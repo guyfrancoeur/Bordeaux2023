@@ -110,35 +110,37 @@ Avantages :
 
 #### 2023-04-10
   - Trajet :
-  - AM 
-  - PM Match vs Mérignacais (U17 National)<sup>p</sup>
-  - Soir : Repas resto du village vacance
+  - AM Repos/Piscine
+  - PM Match vs SA Mérignac U17 N1 <sup>p</sup>
+  - Soir : Repas au resto du village vacance
+  - Equipe : https://ca.soccerway.com/teams/france/sa-merignac-u17/56429/
 
 #### 2023-04-11
   - Trajet : [map](https://www.google.ca/maps/dir/Yelloh!+Village+Camping+Bordeaux+Lac,+Bd+Jacques+Chaban-Delmas,+33520+Bruges,+France/Stadium+TFC,+All%C3%A9e+Gabriel+Bi%C3%A9n%C3%A8s,+Toulouse,+France/@44.2328105,-0.1782353,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd5529b7feddf85f:0x6ea39e9257a69f49!2m2!1d-0.5827695!2d44.8977963!1m5!1m1!1s0x12aebb8442a6d3ad:0x258ae94747bde3cd!2m2!1d1.434048!2d43.5832972!3e0)
   - AM Visite du centre
   - Repas : au centre de formation
-  - PM Match vs Toulouse (L1)<sup>p</sup> [team](https://toulousefc.com/fr/saison/u17/2022)
-  - Soir : Repas resto du village vacance
+  - PM Match vs Toulouse U17 N1 <sup>p</sup> [team](https://toulousefc.com/fr/saison/u17/2022)
+  - Soir : Repas au resto du village vacance
 
 #### 2023-04-12
   - Trajet : 
   - AM Visite du centre
-  - PM Match vs Girondins (L2)<sup>p</sup>
+  - PM Match vs Girondins N1 <sup>p</sup>
   - Soir : Repas resto du village vacance
 
 #### 2023-04-13
   - AM Visite du centre [team](https://www.chamoisniortais.fr/)
   - Repas : au centre de formation
-  - PM Match vs Chamois Niortais FC (L2)<sup>p</sup> 
-  - Soir : Repas resto du village
+  - PM Match vs Chamois Niortais FC <sup>p</sup> 
+  - Soir : Repas au resto du village vacance
 
 #### 2023-04-14
   - Trajet : 
   - AM 8h30 départ, trajet 1h30 + mise en forme [map](https://www.google.ca/maps/dir/Yelloh!+Village+Camping+Bordeaux+Lac,+Bd+Jacques+Chaban-Delmas,+33520+Bruges,+France/68+Rue+Michel+de+Montaigne,+47200+Marmande,+France/@44.6640106,-0.5433212,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd5529b7feddf85f:0x6ea39e9257a69f49!2m2!1d-0.5827695!2d44.8977963!1m5!1m1!1s0x12aa8f8010d3d92f:0xb0e8ed7f01d0b724!2m2!1d0.1503589!2d44.5131261!3e0)
   - Repas : au CLUB
-  - PM 15h30 Match vs FCM47 (National)<sup>t</sup>
-  - Soir : Repas resto du village
+  - PM 15h30 Match vs FCM47 N1 <sup>t</sup>
+  - Soir : Repas au resto du village vacance
+  - equipe : https://ca.soccerway.com/teams/france/marmande-u17/59612/
 
 #### 2023-04-15
   - transport vers aéroport de Bordeaux, retour vers Montréal
