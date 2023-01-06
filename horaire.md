@@ -108,6 +108,8 @@ Avantages :
   - vers 7h00 : petit déjeuner dans les cabines
   - 2x Match de 50min (2x25) en 2022 --> https://fcmi-club.fr/bordeaux-ocean-cup-2022/
 
+![Extrait de la présentation](./7a9.png)
+
 #### 2023-04-10
   - Trajet :
   - AM Repos/Piscine
