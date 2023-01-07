@@ -16,7 +16,7 @@ Joueur
 - Avion : 950$
 
 Parent
-- Hébergement Cottage Moulis (6 occupation) : 158€
+- Hébergement Cottage Moulis/Sauternes (6 occupation) : 158€
 - Minis-Bus : 95€
 - 
 - Avion 950$
