@@ -8,6 +8,7 @@ Voici mon planning avec **`OceanCup`** pour les prochains jours et les questions
   - Jeudi 15 décembre 10h45 ZOOM
   - Jeudi 22 décembre via courriel
   - Mercredi 28 décembre via zoom
+  - Vendredi 6 janvier 2023 via zoom
 
 - Questions:
   - Q. Quel est la marche à suivre complète, pour payer ?
