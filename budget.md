@@ -2,6 +2,21 @@
 
 [menu principal](./readme.md)
 
+### Sommaire
+
+`prix sont les prix que nous avons pour l'instant`
+
+- Repas : 400€
+- Hébergement : 140€
+- Minis-Bus : 95€
+- Tournoi : 
+- 
+- Permis de voyage : 25$
+- Avion : 940$
+
+
+### Détail
+
 - Budget repas : 45€ jour x 8 ~ 360€ (+2x20€) = 400€ (600$)
   - Matin : ±5€
   - Midi : ±17€
