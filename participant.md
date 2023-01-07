@@ -20,14 +20,13 @@ Liam | Oui B |  | | Reçu |
 Ilyan | Oui B |  | | |
 Elliot | Oui B |  |  |  |
 Kristofer | Oui B |  | 1a.8m |  |
-Otoniel | Oui B |  | |  |
 Théo | Oui | 1 | 3a.0m |  |
-Daniel | Oui | |  |  |
+Daniel | Oui |  |  |  |
 Isaak | Oui B | 1 |  |  |
 Karim | Oui B |  |  |  |
    |  |   |  |  | 
 Kevin | Coach      |       |  |  |
-**Total**   |   **21J + 1C**   |  **11**   |  |  |
+**Total**   |   **20J + 1C**   |  **11**   |  |  |
 
 - `Adultes` nombre d'adulte qui acompagne le joueur;
 - `Passeport` nombre d'année.mois restant après le 16 avril 2023;
