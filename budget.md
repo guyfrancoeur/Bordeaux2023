@@ -6,14 +6,20 @@
 
 `prix sont les prix que nous avons pour l'instant`
 
+Joueur
 - Repas : 400€
-- Hébergement : 140€
+- Hébergement Cottage Saint Julien (5 ou 6 occupation) : 140€
 - Minis-Bus : 95€
 - Tournoi : 
 - 
 - Permis de voyage : 25$
-- Avion : 940$
+- Avion : 950$
 
+Parent
+- Hébergement Cottage Moulis (6 occupation) : 158€
+- Minis-Bus : 95€
+- 
+- Avion 950$
 
 ### Détail
 
@@ -25,9 +31,10 @@
 
 - Déplacement (autocar)
   - jusqu'à 59 places
-    - [choix 1](https://www.cars-de-france.com/tarifs-location-autocar/)
-    - [choix 2](https://www.location-bus.fr/)
-    - [choix 3](https://locationminibus.fr/)
+    - [option 1](https://www.cars-de-france.com/tarifs-location-autocar/)
+    - [option 2](https://www.location-bus.fr/)
+    - [option 3](https://locationminibus.fr/)
+    - [option 4](https://www.sixt.fr/funnel/#/reservation/offerconfig?ctyp=van&minPs=7)
 
 - Hébergement
   - yelloh village 
