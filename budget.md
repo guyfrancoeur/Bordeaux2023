@@ -46,7 +46,7 @@ Parent
   - yelloh village 
     - 5 ou 6 personnes
     - [occupation 5/6](https://www.yellohvillage.fr/camping/bordeaux_lac/nos_locations/75474#content)
-    - 
+    - [](https://www.yellohvillage.fr/footer/infos_pratiques/cgv)
 
 - Avion
   - Air France via CDG (927$ - 942$)
