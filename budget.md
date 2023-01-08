@@ -34,8 +34,8 @@ Parent
 
 - Déplacement (autocar)
   - 9 places
-    - https://location-minibus-pas-cher-bordeaux.com/ 
-    - moc.col-evitanretla@tcatnoc
+    - https://location-minibus-pas-cher-bordeaux.com/
+    - 
   - jusqu'à 59 places
     - [option 1](https://www.cars-de-france.com/tarifs-location-autocar/)
     - [option 2](https://www.location-bus.fr/)
@@ -46,7 +46,7 @@ Parent
   - yelloh village 
     - 5 ou 6 personnes
     - [occupation 5/6](https://www.yellohvillage.fr/camping/bordeaux_lac/nos_locations/75474#content)
-    - [](https://www.yellohvillage.fr/footer/infos_pratiques/cgv)
+    - [annulation politique](https://www.yellohvillage.fr/footer/infos_pratiques/cgv)
 
 - Avion
   - Air France via CDG (927$ - 942$)
