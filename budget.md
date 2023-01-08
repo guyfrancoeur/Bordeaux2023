@@ -33,6 +33,9 @@ Parent
   - Il y a des cuisines et BBQ dans les cabines du village vacance et la possibilité de faire des repas.
 
 - Déplacement (autocar)
+  - 9 places
+    - https://location-minibus-pas-cher-bordeaux.com/ 
+    - moc.col-evitanretla@tcatnoc
   - jusqu'à 59 places
     - [option 1](https://www.cars-de-france.com/tarifs-location-autocar/)
     - [option 2](https://www.location-bus.fr/)
