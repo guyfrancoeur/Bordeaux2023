@@ -13,12 +13,15 @@ Joueur
 - Tournoi : 
 - 
 - Permis de voyage : 25$
+- Assurance SSQ - Soccer Québec (coût IPE) : 66$
+- Frais bancaire IBAN :
 - Avion : 950$
 
 Parent
 - Hébergement Cottage Moulis/Sauternes (6 occupation) : 158€
 - Minis-Bus : 95€
 - 
+- Frais bancaire (si par Visa) : 0$
 - Avion 950$
 
 ### Détail
