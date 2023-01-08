@@ -4,7 +4,7 @@
 
 ### Sommaire
 
-`prix sont les prix que nous avons pour l'instant`
+`les tarifs que nous avons pour l'instant à titre indicatif`
 
 Joueur
 - Repas : 400€
