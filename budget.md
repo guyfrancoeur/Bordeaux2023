@@ -6,7 +6,7 @@
 
 `les tarifs que nous avons pour l'instant à titre indicatif`
 
-Joueur
+`Joueur`
 - Repas : 400€
 - Hébergement Cottage Saint Julien (5 ou 6 occupation) : 140€
 - Minis-Bus : 95€
@@ -17,12 +17,15 @@ Joueur
 - Frais bancaire IBAN :
 - Avion : 950$
 
-Parent
+`Parent`
 - Hébergement Cottage Moulis/Sauternes (6 occupation) : 158€
 - Minis-Bus : 95€
 - 
 - Frais bancaire (si par Visa) : 0$
 - Avion 950$
+
+`Taux de change`
+ - [ici](https://www.bnpparibas.ca/fr/taux-de-change-en-direct-pour-le-canada/)
 
 ### Détail
 
