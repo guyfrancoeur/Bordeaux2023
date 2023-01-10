@@ -13,7 +13,7 @@ Vinh | Oui B | 2 | 4a.6m | Reçu |
 Sami | Oui B | 1 | 4a.2m | |
 Joachim | Oui B | 2 | 4a.11m | |
 William | Oui B |   |  |  |
-Caleb | Oui | 1 ou 2 | 2a.0m |  |
+Caleb | Oui | 1 ou 2 | 1a.10m |  |
 Luca | Oui |  |  |  |
 Cheick | Oui |   |  | |
 Liam | Oui B |  | | Reçu |
