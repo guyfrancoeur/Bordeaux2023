@@ -20,7 +20,7 @@ Lieu de l'hébergement (adresse) : https://www.yellohvillage.fr/camping/bordeaux
 - [budgets](./budget.md) : ici vous trouverez des informations sur les coûts (idées des coûts).
 - [requis](./requis.md) : les requis pour realiser le projet.
 - [questions](./question.md) : les questions & réponses à ce jour.
-- [lettre Ecole](./U16M_ CSL_Lettre_Ecole.pdf) version du 10 Janvier 2023 (V2)
+- [lettre Ecole](./U16M_CSL_Lettre_Ecole.pdf) version du 10 Janvier 2023 (V2)
 - [lettre Commendite](./U16M_CSL_Financement_Tournoi.pdf) version du 10 janvier 2023 (V2)
 
 ---
