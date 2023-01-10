@@ -26,7 +26,7 @@ Isaak | Oui B | 1 |  |  |
 Karim | Oui B |  |  |  |
    |  |   |  |  | 
 Kevin | Coach      |       |  |  |
-**Total**   |   **20J + 1C**   |  **11**   |  |  |
+**Total** 32pers   |   **20J + 1C**   |  **11**   |  |  |
 
 - `Adultes` nombre d'adulte qui acompagne le joueur;
 - `Passeport` nombre d'année.mois restant après le 16 avril 2023;
